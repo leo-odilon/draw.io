@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T17:53:35.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3YfwfzcwyjjY57bUlPJC" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-21T17:54:29.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="naZvGZo9DiMeK587RJlP" version="21.7.5" type="github" pages="4">
   <diagram name="Página-1" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="2856" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -506,7 +506,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Página-3" id="jURw4gd56EIS4MFYu5wP">
-    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZQJokzsNegZTWrxGU5HA-0" />
         <mxCell id="ZQJokzsNegZTWrxGU5HA-1" parent="ZQJokzsNegZTWrxGU5HA-0" />
@@ -526,7 +526,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQJokzsNegZTWrxGU5HA-7" value="PRODUCT_COMPONENTES (GROUP)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="ZQJokzsNegZTWrxGU5HA-1">
-          <mxGeometry x="310" y="239.91000000000003" width="280" height="20" as="geometry" />
+          <mxGeometry x="220" y="239.91000000000003" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZTFZcGOBW5I8XOaXhGLD-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZQJokzsNegZTWrxGU5HA-1" source="ZQJokzsNegZTWrxGU5HA-9" target="ZQJokzsNegZTWrxGU5HA-7">
           <mxGeometry relative="1" as="geometry" />

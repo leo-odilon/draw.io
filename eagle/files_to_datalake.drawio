@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T12:58:45.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Jom57RiDTPUi4lFr41dI" version="22.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-03T13:06:13.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dcZDFthvgCIFK0eLzCIA" version="22.0.0" type="github" pages="3">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="2603" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PROCESS_TIME" id="1eG0KRD77ByMPf2MqEsW">
-    <mxGraphModel dx="2049" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="2MJeXSKK3wsNW9RNk72A-0" />
         <mxCell id="2MJeXSKK3wsNW9RNk72A-1" parent="2MJeXSKK3wsNW9RNk72A-0" />
@@ -701,31 +701,13 @@
         <mxCell id="Stw2IR6HZw2_VKBMRnxs-61" value="RUN: ON EVENT&lt;br&gt;PROCESS TYPE: TRANSFORM /&amp;nbsp;ENRICH&lt;br&gt;DEPENDENT: SAP_MAIIS RAW&lt;br&gt;DEPENDENT: INCA RAW" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="Cqb0DptuU7NcJMR8xTqU-10">
           <mxGeometry x="220" width="50" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="0dpYN2lTIpBGWRdoMG7V-0" value="????" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;startSize=30;" vertex="1" parent="2MJeXSKK3wsNW9RNk72A-1">
-          <mxGeometry x="1220" y="49" width="600" height="1050" as="geometry">
+        <mxCell id="0dpYN2lTIpBGWRdoMG7V-0" value="ENTITIES" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;startSize=30;" vertex="1" parent="2MJeXSKK3wsNW9RNk72A-1">
+          <mxGeometry x="1220" y="49" width="600" height="1081" as="geometry">
             <mxRectangle x="20" y="40" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-6" value="PRODUCT_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="316" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-24" value="ROUTING_STEPS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="567.25" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-26" value="OPERATIONS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="707.25" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-32" value="OPERATIONS_BOM_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="30" y="861" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-75" value="FORECASTS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="30" y="938" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S6S8XdDrkpt63JJrzlzT-1" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: GRUPO DE MATERIAIS&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="240" y="272.5" width="50" height="107.5" as="geometry" />
-        </mxCell>
         <mxCell id="S6S8XdDrkpt63JJrzlzT-2" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="62.5" width="270" height="75" as="geometry" />
+          <mxGeometry x="20" y="75" width="270" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2MJeXSKK3wsNW9RNk72A-53" value="UNITS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-2">
           <mxGeometry y="27.5" width="220" height="20" as="geometry" />
@@ -733,20 +715,8 @@
         <mxCell id="0dpYN2lTIpBGWRdoMG7V-15" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: FORNECEDORES&lt;br&gt;DEPENDENT: CAPACIDADE FORNEC. COMP." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-2">
           <mxGeometry x="220" width="50" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="S6S8XdDrkpt63JJrzlzT-4" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="152.59" width="270" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="2MJeXSKK3wsNW9RNk72A-54" value="UNITS_CAPACITIES_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-4">
-          <mxGeometry y="27.5" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S6S8XdDrkpt63JJrzlzT-0" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: CAPACIDADE FORNEC. COMP." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-4">
-          <mxGeometry x="220" width="50" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="O-JdB0KN1E5sL3d_NQgF-0" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="240" y="531" width="50" height="92.5" as="geometry" />
-        </mxCell>
         <mxCell id="O-JdB0KN1E5sL3d_NQgF-2" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="20" y="407.5" width="270" height="92.5" as="geometry" />
+          <mxGeometry x="20" y="459" width="270" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="2MJeXSKK3wsNW9RNk72A-16" value="ROUTING_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-2">
           <mxGeometry y="36.25" width="220" height="20" as="geometry" />
@@ -754,8 +724,59 @@
         <mxCell id="yq7w9trTA-AgFyMWEfD5-0" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-2">
           <mxGeometry x="220" width="50" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="O-JdB0KN1E5sL3d_NQgF-3" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="0dpYN2lTIpBGWRdoMG7V-0">
-          <mxGeometry x="240" y="671" width="50" height="92.5" as="geometry" />
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-5" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="591" width="270" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-24" value="ROUTING_STEPS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-5">
+          <mxGeometry y="36.25" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-0" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-5">
+          <mxGeometry x="220" width="50" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-6" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="721" width="270" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-26" value="OPERATIONS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-6">
+          <mxGeometry y="36.25" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-3" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE&lt;br&gt;DEPENDENT: CAPACIDADE FORNEC. COMP." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-6">
+          <mxGeometry x="220" width="50" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S6S8XdDrkpt63JJrzlzT-4" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="195" width="270" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-54" value="UNITS_CAPACITIES_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-4">
+          <mxGeometry y="27.5" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S6S8XdDrkpt63JJrzlzT-0" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: CAPACIDADE FORNEC. COMP." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="S6S8XdDrkpt63JJrzlzT-4">
+          <mxGeometry x="220" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-9" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="322" width="270" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-6" value="PRODUCT_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-9">
+          <mxGeometry y="43.5" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S6S8XdDrkpt63JJrzlzT-1" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: GRUPO DE MATERIAIS&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-9">
+          <mxGeometry x="220" width="50" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-10" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="858.25" width="270" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-32" value="OPERATIONS_BOM_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-10">
+          <mxGeometry y="36.25" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-4" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: COMPONENTES&lt;br&gt;DEPENDENT: CONJNTOS&lt;br&gt;DEPENDENT: MODELCODE&lt;br&gt;DEPENDENT: CAPACIDADE FORNEC. COMP." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-10">
+          <mxGeometry x="220" width="50" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-8" value="" style="group" vertex="1" connectable="0" parent="0dpYN2lTIpBGWRdoMG7V-0">
+          <mxGeometry x="20" y="989" width="270" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="2MJeXSKK3wsNW9RNk72A-75" value="FORECASTS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-8">
+          <mxGeometry y="24.5" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-JdB0KN1E5sL3d_NQgF-7" value="RUN: ON SCHEDULER&lt;br&gt;PROCESS TYPE: TRANSFORM / ???&lt;br&gt;DEPENDENT: DEMANDA MENSAL PRODUÇÃO&lt;br&gt;DEPENDENT: DEMANDA MENSAL FUTURA&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="O-JdB0KN1E5sL3d_NQgF-8">
+          <mxGeometry x="220" width="50" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T20:11:41.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7ubgNtzOk0izXNRpvryj" version="22.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-01T20:13:03.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2ZlFdItKSkS7xaQfEDOc" version="22.1.5" type="github" pages="6">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="3480" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1244,7 +1244,7 @@
         <mxCell id="7vJJCLbUfJ4zOeHzQEFw-4" value="fcst_sales_modelcode" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-660" y="1430" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7vJJCLbUfJ4zOeHzQEFw-9" value="SMK - Intermediária(s)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontStyle=1;fillColor=#FFCCCC;" parent="1" vertex="1">
+        <mxCell id="7vJJCLbUfJ4zOeHzQEFw-9" value="Intermediária(s)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontStyle=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="-363" y="1371" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7vJJCLbUfJ4zOeHzQEFw-10" value="country_group" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
@@ -1271,7 +1271,7 @@
             <mxPoint x="-440" y="1351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cl5-tujfNzJByM9P-HY-3" value="EPL - Intermediária(s)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontStyle=1;fillColor=#FFCCCC;" parent="1" vertex="1">
+        <mxCell id="2cl5-tujfNzJByM9P-HY-3" value="Intermediária(s)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontStyle=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1331" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2cl5-tujfNzJByM9P-HY-6" value="FORECASTS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontStyle=1;fillColor=#FFFF99;" parent="1" vertex="1">

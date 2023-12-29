@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T14:22:59.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eO0vRbJZS1m0esYv879d" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-29T14:28:55.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Jolv1ABilBY6TlT9MEId" version="22.1.16" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="3483" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -903,12 +903,9 @@
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-0" />
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-1" parent="oZJ4kj59_uI5YqjAOyZu-0" />
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-2" value="RAW" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;startSize=30;fillColor=#00CC00;" parent="oZJ4kj59_uI5YqjAOyZu-1" vertex="1">
-          <mxGeometry x="70" y="99" width="380" height="521" as="geometry">
+          <mxGeometry x="70" y="80" width="380" height="761" as="geometry">
             <mxRectangle x="20" y="40" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hec8BnV5aZgoWnBErEF9-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LIFECYCLE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;0 - 30 DIAS DEFAULT&lt;/div&gt;&lt;div style=&quot;&quot;&gt;30 - 90 DIAS INFREQUENT ACCESS&lt;/div&gt;&lt;div style=&quot;&quot;&gt;90 - 180 DIAS GLACIER DEEP ARCHIVE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;180 EXCLUIR&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ARQUIVOS ERRADOS LANDING - 30 DIAS EXCLUIR&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZJ4kj59_uI5YqjAOyZu-2" vertex="1">
-          <mxGeometry x="35" y="341" width="310" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-4" value="INCA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#666666;fontColor=#333333;container=0;" parent="oZJ4kj59_uI5YqjAOyZu-2" vertex="1">
           <mxGeometry x="30" y="101" width="120" height="20" as="geometry" />
@@ -1021,6 +1018,9 @@
         </mxCell>
         <mxCell id="yKPVvte7hjvGTNTu9Ggw-0" value="MATERIAL_GROUP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;container=0;rotation=0;fillColor=#99CCFF;" vertex="1" parent="4Fqtt-A0cE_s4hZqWQG_-0">
           <mxGeometry x="50" y="741" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hec8BnV5aZgoWnBErEF9-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LIFECYCLE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;0 - 30 DIAS DEFAULT&lt;/div&gt;&lt;div style=&quot;&quot;&gt;30 - 90 DIAS INFREQUENT ACCESS&lt;/div&gt;&lt;div style=&quot;&quot;&gt;90 - 180 DIAS GLACIER DEEP ARCHIVE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;180 EXCLUIR&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ARQUIVOS ERRADOS LANDING - 30 DIAS EXCLUIR&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZJ4kj59_uI5YqjAOyZu-1" vertex="1">
+          <mxGeometry x="1620" y="70" width="310" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

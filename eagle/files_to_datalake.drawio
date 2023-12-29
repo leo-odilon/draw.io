@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T16:59:40.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RwezJSj_pAPUwuQ61KKM" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-29T17:00:11.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JZyTYY-Q91TqXxbn1d21" version="22.1.16" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="3483" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1004,6 +1004,9 @@
         </mxCell>
         <mxCell id="2Oxe68NFd8Mo7ZYoZeuL-20" value="FORECASTS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;container=0;fillColor=#FFFF99;" vertex="1" parent="_x1gXGVOXfBuukQREB0G-0">
           <mxGeometry x="28" y="340" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oxe68NFd8Mo7ZYoZeuL-21" value="STOCKS_MP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;container=0;fillColor=#FFFF99;" vertex="1" parent="_x1gXGVOXfBuukQREB0G-0">
+          <mxGeometry x="28" y="420" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Fqtt-A0cE_s4hZqWQG_-0" value="ENTITIES" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;startSize=30;fillColor=#99CCFF;" vertex="1" parent="oZJ4kj59_uI5YqjAOyZu-1">
           <mxGeometry x="520" y="80" width="430" height="781" as="geometry">

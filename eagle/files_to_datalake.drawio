@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T17:19:04.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CsSs63aoUWPI5Fp6CVd9" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-03T17:23:19.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W1jeBn6GyLo7pDp4KiAi" version="22.1.16" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="4754" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1088,7 +1088,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8atMcv_UoepEzvJdYqoZ" name="Felipe_Rascunho">
-    <mxGraphModel dx="2797" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5014,13 +5014,13 @@
         <mxCell id="B6HUqMJpPoqty_PV7pcd-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-32" target="B6HUqMJpPoqty_PV7pcd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6HUqMJpPoqty_PV7pcd-32" value="GRP.MATERIAL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-32" value="BR.MARGIN.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;YYYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1517" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-34" target="B6HUqMJpPoqty_PV7pcd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6HUqMJpPoqty_PV7pcd-34" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-34" value="BR.WBB.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;YYYY.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1557" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-36" target="B6HUqMJpPoqty_PV7pcd-38">
@@ -5041,20 +5041,41 @@
         <mxCell id="B6HUqMJpPoqty_PV7pcd-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-40" target="B6HUqMJpPoqty_PV7pcd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6HUqMJpPoqty_PV7pcd-40" value="GRP.MATERIAL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-40" value="BR.WHSALE.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;YYYY.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1595" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-41" target="B6HUqMJpPoqty_PV7pcd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6HUqMJpPoqty_PV7pcd-41" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-41" value="BR.DGF.PRD.NAC.&lt;span style=&quot;font-size: 12px;&quot;&gt;MMYYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1635" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-42" target="B6HUqMJpPoqty_PV7pcd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B6HUqMJpPoqty_PV7pcd-42" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-42" value="BR.CST.MDL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;YYYY.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xls&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1680" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-51" target="B6HUqMJpPoqty_PV7pcd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-51" value="IOPU060" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFCCCC;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1743" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-53" target="B6HUqMJpPoqty_PV7pcd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-53" value="&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;caminho SAP (I52) -&amp;gt; \\10.135.7.23\files\PRD\interfaces\fi\outbound\Internet\IOPU060\&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFCCCC;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="1743" width="503" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-55" target="B6HUqMJpPoqty_PV7pcd-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-55" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sap&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFCCCC;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1818.5" y="1743" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-56" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sap/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFCCCC;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="1743" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T17:02:22.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pidXFiuBIWp0qIVqUYST" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-03T17:19:04.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CsSs63aoUWPI5Fp6CVd9" version="22.1.16" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="4754" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1088,7 +1088,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8atMcv_UoepEzvJdYqoZ" name="Felipe_Rascunho">
-    <mxGraphModel dx="2775" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2797" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4882,26 +4882,11 @@
         <mxCell id="AFe2rpr0VP7U07sFIKjs-1" value="DATALAKE&lt;br style=&quot;font-size: 9px;&quot;&gt;CATALOG" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_data_catalog;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="481" y="650" width="47.08" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="K2nbAidRBwFsLpegZpFo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_v0TCoMO73CHf6fii2QX-2" target="_v0TCoMO73CHf6fii2QX-3">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_v0TCoMO73CHf6fii2QX-2" target="1y1cM34ziUDIBkdSqLYE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_v0TCoMO73CHf6fii2QX-2" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="973.75" y="1169" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="K2nbAidRBwFsLpegZpFo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_v0TCoMO73CHf6fii2QX-3" target="_v0TCoMO73CHf6fii2QX-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_v0TCoMO73CHf6fii2QX-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1169" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="K2nbAidRBwFsLpegZpFo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_v0TCoMO73CHf6fii2QX-4" target="_v0TCoMO73CHf6fii2QX-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_v0TCoMO73CHf6fii2QX-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1169" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_v0TCoMO73CHf6fii2QX-5" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1169" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1y1cM34ziUDIBkdSqLYE-1" value="ARQUIVO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1053.75" y="1135" width="73" height="26" as="geometry" />
@@ -4915,425 +4900,26 @@
         <mxCell id="1y1cM34ziUDIBkdSqLYE-4" value="BUCKET AWS S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2166" y="1135" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-6" target="1y1cM34ziUDIBkdSqLYE-8">
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-6" target="1y1cM34ziUDIBkdSqLYE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-6" value="BR.EPL.KW&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Calibri, sans-serif, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 14.6667px; text-align: left;&quot;&gt;99.&lt;/span&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Calibri, sans-serif, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 14.6667px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Calibri, sans-serif, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 14.6667px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1200" width="233" height="20" as="geometry" />
+        <mxCell id="1y1cM34ziUDIBkdSqLYE-6" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;BR.GRAPHS.AAK.&lt;span style=&quot;text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;.xlsx&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1209" width="233" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1y1cM34ziUDIBkdSqLYE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-8" target="1y1cM34ziUDIBkdSqLYE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1200" width="503" height="20" as="geometry" />
+        <mxCell id="1y1cM34ziUDIBkdSqLYE-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="1189" width="503" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-10" target="1y1cM34ziUDIBkdSqLYE-11">
+        <mxCell id="1y1cM34ziUDIBkdSqLYE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-10" target="1y1cM34ziUDIBkdSqLYE-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1200" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-11" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1200" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-13" target="1y1cM34ziUDIBkdSqLYE-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-13" value="BR.VEIC.MXEAGLE.MMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1230" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-15" target="1y1cM34ziUDIBkdSqLYE-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-15" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1230" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-17" target="1y1cM34ziUDIBkdSqLYE-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-17" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1230" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-18" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1230" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-20" target="1y1cM34ziUDIBkdSqLYE-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-20" value="IOPU060" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1261" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-22" target="1y1cM34ziUDIBkdSqLYE-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1261" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-24" target="1y1cM34ziUDIBkdSqLYE-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1261" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-25" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1261" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-27" target="1y1cM34ziUDIBkdSqLYE-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-27" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1292" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-29" target="1y1cM34ziUDIBkdSqLYE-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-29" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1292" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-31" target="1y1cM34ziUDIBkdSqLYE-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-31" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1292" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-32" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1292" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-34" target="1y1cM34ziUDIBkdSqLYE-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-34" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1322" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-36" target="1y1cM34ziUDIBkdSqLYE-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-36" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1322" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-38" target="1y1cM34ziUDIBkdSqLYE-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-38" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1322" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-39" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1322" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-41" target="1y1cM34ziUDIBkdSqLYE-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-41" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1350.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-43" target="1y1cM34ziUDIBkdSqLYE-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-43" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1350.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-45" target="1y1cM34ziUDIBkdSqLYE-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-45" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1350.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-46" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1350.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-48" target="1y1cM34ziUDIBkdSqLYE-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-48" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1381.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-50" target="1y1cM34ziUDIBkdSqLYE-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-50" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1381.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-52" target="1y1cM34ziUDIBkdSqLYE-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-52" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1381.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-53" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1381.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-55" target="1y1cM34ziUDIBkdSqLYE-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-55" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1411.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-57" target="1y1cM34ziUDIBkdSqLYE-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-57" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1411.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-59" target="1y1cM34ziUDIBkdSqLYE-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-59" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1411.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-60" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1411.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-62" target="1y1cM34ziUDIBkdSqLYE-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-62" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1442.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-64" target="1y1cM34ziUDIBkdSqLYE-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-64" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1442.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-66" target="1y1cM34ziUDIBkdSqLYE-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-66" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1442.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-67" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1442.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-69" target="1y1cM34ziUDIBkdSqLYE-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-69" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1473.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-71" target="1y1cM34ziUDIBkdSqLYE-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-71" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1473.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-73" target="1y1cM34ziUDIBkdSqLYE-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-73" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1473.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-74" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1473.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-76" target="1y1cM34ziUDIBkdSqLYE-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-76" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1503.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-78" target="1y1cM34ziUDIBkdSqLYE-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-78" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1503.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-80" target="1y1cM34ziUDIBkdSqLYE-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-80" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1503.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-81" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1503.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-83" target="1y1cM34ziUDIBkdSqLYE-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-83" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1534.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-85" target="1y1cM34ziUDIBkdSqLYE-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-85" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1534.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-87" target="1y1cM34ziUDIBkdSqLYE-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-87" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1534.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-88" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1534.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-90" target="1y1cM34ziUDIBkdSqLYE-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-90" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1565.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-92" target="1y1cM34ziUDIBkdSqLYE-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-92" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1565.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-94" target="1y1cM34ziUDIBkdSqLYE-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-94" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1565.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-95" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1565.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-97" target="1y1cM34ziUDIBkdSqLYE-99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-97" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1595.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-99" target="1y1cM34ziUDIBkdSqLYE-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-99" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1595.5" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-101" target="1y1cM34ziUDIBkdSqLYE-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-101" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1595.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-102" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1595.5" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-104" target="1y1cM34ziUDIBkdSqLYE-106">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-104" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1624" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-106" target="1y1cM34ziUDIBkdSqLYE-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-106" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1624" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-108" target="1y1cM34ziUDIBkdSqLYE-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-108" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1624" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-109" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1624" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-111" target="1y1cM34ziUDIBkdSqLYE-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-111" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1655" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-113" target="1y1cM34ziUDIBkdSqLYE-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-113" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1655" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-115" target="1y1cM34ziUDIBkdSqLYE-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-115" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1655" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-116" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1655" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-118" target="1y1cM34ziUDIBkdSqLYE-120">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-118" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1685" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-120" target="1y1cM34ziUDIBkdSqLYE-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-120" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1685" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-122" target="1y1cM34ziUDIBkdSqLYE-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-122" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1685" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-123" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1685" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-125" target="1y1cM34ziUDIBkdSqLYE-127">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-125" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1716" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-127" target="1y1cM34ziUDIBkdSqLYE-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-127" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1716" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-129" target="1y1cM34ziUDIBkdSqLYE-130">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-129" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1716" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-130" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1716" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-132" target="1y1cM34ziUDIBkdSqLYE-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-132" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1747" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-134" target="1y1cM34ziUDIBkdSqLYE-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-134" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1747" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-136" target="1y1cM34ziUDIBkdSqLYE-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-136" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1747" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-137" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1747" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-139" target="1y1cM34ziUDIBkdSqLYE-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-139" value="SMK.YYYY.K99.DDMMYY.xlsx" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="973.75" y="1777" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-141" target="1y1cM34ziUDIBkdSqLYE-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-141" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\SALES&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="1777" width="503" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y1cM34ziUDIBkdSqLYE-143" target="1y1cM34ziUDIBkdSqLYE-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-143" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1818" y="1777" width="233" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1y1cM34ziUDIBkdSqLYE-144" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2106" y="1777" width="233" height="20" as="geometry" />
+        <mxCell id="1y1cM34ziUDIBkdSqLYE-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\sales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1818.5" y="1189" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1y1cM34ziUDIBkdSqLYE-11" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/sales/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#00CC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="1189" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1y1cM34ziUDIBkdSqLYE-146" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=#00CC00;strokeColor=#000000;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-1519" y="8022.5" width="15" height="15" as="geometry" />
@@ -5364,6 +4950,111 @@
         </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-5" value="Dados de saida - Gold Quintiq" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="8125" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-11" target="B6HUqMJpPoqty_PV7pcd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-11" value="BR.EPL.KW&lt;span style=&quot;font-size: 12px;&quot;&gt;99.&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;DDMMYY&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1268" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-13" target="B6HUqMJpPoqty_PV7pcd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-13" value="BR.VEIC.MXEAGLE.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1308" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-15" target="B6HUqMJpPoqty_PV7pcd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-15" value="&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\LOGISTIC&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="1308" width="503" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-17" target="B6HUqMJpPoqty_PV7pcd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-17" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\logistic&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1818.5" y="1308" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-18" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/logistic/&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="1308" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-19" target="B6HUqMJpPoqty_PV7pcd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-19" value="BR.DICTIONARY.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;MMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#99CCFF;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1351" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-23" target="B6HUqMJpPoqty_PV7pcd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-23" value="GRP.MATERIAL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFFF99;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1412" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-25" target="B6HUqMJpPoqty_PV7pcd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-25" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFFF99;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1452" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-27" target="B6HUqMJpPoqty_PV7pcd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-27" value="&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\ PURCHASE&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fbff99;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="1432" width="503" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-29" target="B6HUqMJpPoqty_PV7pcd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-29" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\purchase&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFFF99;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1818.5" y="1432" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-30" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/purchase/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFFF99;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="1432" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-32" target="B6HUqMJpPoqty_PV7pcd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-32" value="GRP.MATERIAL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1517" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-34" target="B6HUqMJpPoqty_PV7pcd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-34" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1557" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-36" target="B6HUqMJpPoqty_PV7pcd-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-36" value="&lt;div data-ccp-timestamp=&quot;1704298035360&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:400pt&quot; width=&quot;533&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:400pt&quot; width=&quot;533&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:400pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;533&quot;&gt;t:\ANCTRD01\S1011_TRANSFER_IN\ S2062_EAGLE_DADOS_VW\&amp;nbsp;FINANCE&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="1595" width="503" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-38" target="B6HUqMJpPoqty_PV7pcd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-38" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:271pt&quot; width=&quot;361&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width:271pt&quot; width=&quot;361&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:30.75pt&quot; height=&quot;41&quot;&gt;&lt;td style=&quot;width:271pt;height:30.75pt&quot; class=&quot;xl43&quot; height=&quot;41&quot; width=&quot;361&quot;&gt;D:\datahub\sandboxes\finance&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1818.5" y="1595" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-39" value="&lt;div data-ccp-timestamp=&quot;1704298027581&quot;&gt;s3://vw-eagle-raw/landing/finance/&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;fontStyle=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="1595" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-40" target="B6HUqMJpPoqty_PV7pcd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-40" value="GRP.MATERIAL.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.xlsx&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1595" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-41" target="B6HUqMJpPoqty_PV7pcd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-41" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1635" width="233" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B6HUqMJpPoqty_PV7pcd-42" target="B6HUqMJpPoqty_PV7pcd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6HUqMJpPoqty_PV7pcd-42" value="CUBE.INCA.&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;DDMMYY&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;.csv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#CCCC00;strokeColor=#9673a6;rotation=0;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;fontStyle=0;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="973.75" y="1680" width="233" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

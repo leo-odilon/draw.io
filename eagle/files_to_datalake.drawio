@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T18:26:36.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0uNNsfiRLg9Yn3Hsv8Bl" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-18T11:30:00.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QWR748tAJbjMX490GgEo" version="22.1.18" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
-    <mxGraphModel dx="3483" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,7 +898,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LIFECYCLE" id="_PpC0Efs2lkK60PWjZPX">
-    <mxGraphModel dx="1434" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="638" dy="287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-0" />
         <mxCell id="oZJ4kj59_uI5YqjAOyZu-1" parent="oZJ4kj59_uI5YqjAOyZu-0" />
@@ -1061,8 +1061,8 @@
         <mxCell id="4Fqtt-A0cE_s4hZqWQG_-3" value="DICTIONARY" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;container=0;rotation=0;fillColor=#99CCFF;" parent="4Fqtt-A0cE_s4hZqWQG_-0" vertex="1">
           <mxGeometry x="38.5" y="741.5" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hec8BnV5aZgoWnBErEF9-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LIFECYCLE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;0 - 30 DIAS DEFAULT&lt;/div&gt;&lt;div style=&quot;&quot;&gt;30 - 90 DIAS INFREQUENT ACCESS&lt;/div&gt;&lt;div style=&quot;&quot;&gt;90 - 180 DIAS GLACIER DEEP ARCHIVE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;180 EXCLUIR&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ARQUIVOS ERRADOS LANDING - 30 DIAS EXCLUIR&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZJ4kj59_uI5YqjAOyZu-1" vertex="1">
-          <mxGeometry x="1940" y="60" width="310" height="119" as="geometry" />
+        <mxCell id="hec8BnV5aZgoWnBErEF9-0" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LIFECYCLE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;Bucket - &#39;v&lt;span style=&quot;background-color: initial;&quot;&gt;w-eagle-raw&#39;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;Arquivos errados landing - 15 dias excluir&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Arquivo bruto já processado - 90 dias excluir&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Bucket - &#39;vw-eagle-transformed&#39;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Entidades Bronze e Silver - 180 dias excluir&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZJ4kj59_uI5YqjAOyZu-1" vertex="1">
+          <mxGeometry x="1940" y="60" width="327" height="148" as="geometry" />
         </mxCell>
         <mxCell id="yKPVvte7hjvGTNTu9Ggw-2" value="ENTITIES GOLD" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;startSize=30;fillColor=#CCCC00;" parent="oZJ4kj59_uI5YqjAOyZu-1" vertex="1">
           <mxGeometry x="970" y="80" width="430" height="780" as="geometry">

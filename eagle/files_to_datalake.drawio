@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T09:22:52.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="i-5CeDMNUHcSVUjIHU-b" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T10:33:35.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OYkU1-V8URVp-T908o9u" version="22.1.18" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="2203" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1088,10 +1088,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8atMcv_UoepEzvJdYqoZ" name="Felipe_Rascunho">
-    <mxGraphModel dx="3034" dy="812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2492" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1329" y="8483" width="251" height="185" as="geometry" />
+        </mxCell>
         <mxCell id="B6HUqMJpPoqty_PV7pcd-138" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="1162" y="868" width="265" height="162" as="geometry" />
         </mxCell>
@@ -5327,6 +5330,33 @@
         </mxCell>
         <mxCell id="kMgBXfLnzP33RSHyThd9-40" value="Dados de saida - Gold Quintiq" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="kMgBXfLnzP33RSHyThd9-38" vertex="1">
           <mxGeometry x="19.5" width="169.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake_Storage.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="8533" width="101" height="92.92" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Excel_D-128.png;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-1439.5" y="8496" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1457" y="8576" width="75" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kq6wNkg93UFIjm3z0D5x-2" target="Kq6wNkg93UFIjm3z0D5x-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1289.52" y="8475" as="sourcePoint" />
+            <mxPoint x="-1239.52" y="8533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kq6wNkg93UFIjm3z0D5x-3" target="Kq6wNkg93UFIjm3z0D5x-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1370" y="8536" as="sourcePoint" />
+            <mxPoint x="-1180" y="8562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-11" value="Data Lake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1230.25" y="8622" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq6wNkg93UFIjm3z0D5x-12" value="Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1309" y="8549" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

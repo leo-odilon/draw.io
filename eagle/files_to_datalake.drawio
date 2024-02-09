@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T11:30:00.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QWR748tAJbjMX490GgEo" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T09:22:24.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y22sadF4i00CZ0MF725U" version="22.1.18" type="github" pages="7">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
-    <mxGraphModel dx="2637" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2203" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,7 +1088,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8atMcv_UoepEzvJdYqoZ" name="Felipe_Rascunho">
-    <mxGraphModel dx="3034" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3034" dy="812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3381,7 +3381,7 @@
         <mxCell id="7_VPIC_LzljJfcnmiIbZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7_VPIC_LzljJfcnmiIbZ-12" target="7_VPIC_LzljJfcnmiIbZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_VPIC_LzljJfcnmiIbZ-12" value="Bronze" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
+        <mxCell id="7_VPIC_LzljJfcnmiIbZ-12" value="Bronze" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="-1245" y="1030" width="67.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_VPIC_LzljJfcnmiIbZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7_VPIC_LzljJfcnmiIbZ-1" target="7_VPIC_LzljJfcnmiIbZ-12" edge="1">
@@ -3390,7 +3390,7 @@
         <mxCell id="7_VPIC_LzljJfcnmiIbZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7_VPIC_LzljJfcnmiIbZ-13" target="7_VPIC_LzljJfcnmiIbZ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_VPIC_LzljJfcnmiIbZ-13" value="Silver" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="7_VPIC_LzljJfcnmiIbZ-13" value="Silver" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1138.5" y="1030" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_VPIC_LzljJfcnmiIbZ-15" value="gold_quintiq" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
@@ -5332,7 +5332,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hk345HNfylqRh-vM7Rfd" name="workflow">
-    <mxGraphModel dx="2840" dy="1854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5482,7 +5482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Ny5s28mP5qtzUyKJjrK" name="Página-7">
-    <mxGraphModel dx="1183" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

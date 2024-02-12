@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T19:27:53.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Ts6i8YTeDP4ke1StkXLP" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-12T19:48:09.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8t2dMwdA1-r1eTzHAN3E" version="23.1.1" type="github" pages="4">
   <diagram name="CONECTION - ODATA" id="UidrZuAmAdqeSwWHQQSL">
     <mxGraphModel dx="1420" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -83,6 +83,85 @@
               <mxPoint x="1460" y="497" />
               <mxPoint x="1460" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6CaCfwQ1K0hfqUPCSmio-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Cópia do CONECTION - ODATA" id="KLd2XLQ2eiXw8zhladaL">
+    <mxGraphModel dx="2029" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-0" />
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-1" parent="B0Wa1UnxVgJV-3vDql_I-0" />
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Não contemplado no &lt;br&gt;escopo atual&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=#E6E6E6;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="1440" y="199.5" width="310" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9MgK8GXqTkuD5mNvaN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-5" target="B0Wa1UnxVgJV-3vDql_I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9MgK8GXqTkuD5mNvaN-10" value="CICLO DE EXTRAÇÃO: &lt;br&gt;HORA EM HORA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zg9MgK8GXqTkuD5mNvaN-8">
+          <mxGeometry x="-0.5494" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-5" value="SAP MAIIS&lt;br&gt;ON PREMISE" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="240" y="170" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-7" value="RELAÇÃO&lt;br&gt;PEÇAS,&lt;br&gt;PLATINAS,&lt;br&gt;DADOS AUXILIARES" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Excel_D-128.png" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="240" y="352.5" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-11" value="DATABRICKS&lt;br&gt;ETL / CATALOG" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="1040" y="341.17" width="82.8" height="89.66" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-13" target="B0Wa1UnxVgJV-3vDql_I-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="386.5" />
+              <mxPoint x="1480" y="287.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-13" value="DATABRICKS&lt;br&gt;WAREHOUSE" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Data_Warehouses.svg;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="1300" y="343.35" width="84" height="85.31" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-14" value="POWER BI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="1580" y="455.75" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-15" value="TABLEAU" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/tableau-software.svg;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="1565.98" y="248.25" width="79.05" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-18" value="FILE SERVER&lt;br&gt;RVS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="500" y="347" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-19" value="STORAGE&lt;br&gt;GATEWAY" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.storage_gateway;fillColor=#E05243;gradientColor=none;" vertex="1" parent="B0Wa1UnxVgJV-3vDql_I-1">
+          <mxGeometry x="774.06" y="339.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-18" target="B0Wa1UnxVgJV-3vDql_I-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-19" target="B0Wa1UnxVgJV-3vDql_I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.046;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-11" target="B0Wa1UnxVgJV-3vDql_I-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B0Wa1UnxVgJV-3vDql_I-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-13" target="B0Wa1UnxVgJV-3vDql_I-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="386.5" />
+              <mxPoint x="1480" y="489.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg9MgK8GXqTkuD5mNvaN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0Wa1UnxVgJV-3vDql_I-1" source="B0Wa1UnxVgJV-3vDql_I-7" target="B0Wa1UnxVgJV-3vDql_I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9MgK8GXqTkuD5mNvaN-11" value="ATUALIZAÇÃO &lt;br&gt;SOB DEMANDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zg9MgK8GXqTkuD5mNvaN-9">
+          <mxGeometry x="-0.1311" y="2" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

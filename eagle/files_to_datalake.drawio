@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T14:22:37.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5oqm0RTAE4ROT5ZN3Icd" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-20T16:48:43.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-6wnycqn8iWmZOIkS2Qa" version="23.1.2" type="github" pages="8">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="3483" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5650,62 +5650,74 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GScWec-bNl9Qjjr64KAt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-2" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="140" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-4" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="120" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-6" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="120" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-8" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-9" value="Tableau Pulse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="50" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-10" value="Tableau IA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="50" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-11" value="Tableau Prep" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-12" value="Tableau Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="150" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-13" value="Tableau Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="190" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-14" value="Tableau Data Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="GScWec-bNl9Qjjr64KAt-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-15" value="Tableau Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="294" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-2" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-4" value="Data Preparation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-6" value="Data Visualization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-8" value="On the Go" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-9" value="Tableau Pulse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-10" value="Tableau IA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-11" value="Tableau Prep" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-12" value="Tableau Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-14" value="Tableau Data Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-16" value="Análises Incorporadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="400" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-17" value="Tableau Public" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-18" value="Tableau Mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-20" value="Tableau Brigde" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="294" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-13" value="Tableau Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

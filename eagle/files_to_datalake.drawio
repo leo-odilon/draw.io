@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T17:05:31.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jGfhFPDjUKf_3M-dY-Rm" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-20T18:43:12.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IX02IJtadOwTKgOjrT0E" version="23.1.2" type="github" pages="8">
   <diagram name="TRANSFORM_DRAW" id="WdfRZ3aBrV-6aahJLl9e">
     <mxGraphModel dx="3483" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5650,20 +5650,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GScWec-bNl9Qjjr64KAt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="140" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="140" height="390" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-15" value="Tableau Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="411" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GScWec-bNl9Qjjr64KAt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GScWec-bNl9Qjjr64KAt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="380" height="50" as="geometry" />
+          <mxGeometry x="160" y="585" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="140" as="geometry" />
@@ -5699,7 +5699,7 @@
           <mxGeometry x="300" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-14" value="Tableau Data Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="174" height="30" as="geometry" />
+          <mxGeometry x="250" y="595" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-16" value="Análises Incorporadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="120" height="30" as="geometry" />
@@ -5724,6 +5724,12 @@
         </mxCell>
         <mxCell id="GScWec-bNl9Qjjr64KAt-27" value="Share/Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="441" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="635" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GScWec-bNl9Qjjr64KAt-30" value="Tableau Prep" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="645" width="174" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

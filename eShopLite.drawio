@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T19:05:32.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lr-jMgCsvD29TqT55LfJ" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T19:05:50.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XOTm1eP0Gw-3y5iCMets" version="24.2.3" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -616,7 +616,7 @@
         <mxCell id="EDdJ1mUQbw4O07poYdPI-93" value="PEDIDO STATUS &quot;APROVAÇÃO / CONFIRMAÇÃO&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
           <mxGeometry x="1393" y="540" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EDdJ1mUQbw4O07poYdPI-94" value="CRIA INTERFACE H&lt;div&gt;COM FUNCTIONALITY&lt;/div&gt;&lt;div&gt;ID 2 (FATURAMENTO)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+        <mxCell id="EDdJ1mUQbw4O07poYdPI-94" value="CRIA INTERFACE H&lt;div&gt;COM FUNCTIONALITY&lt;/div&gt;&lt;div&gt;ID 2 (FATU)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
           <mxGeometry x="1199" y="540" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EDdJ1mUQbw4O07poYdPI-95" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1" source="EDdJ1mUQbw4O07poYdPI-77" target="EDdJ1mUQbw4O07poYdPI-80">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T18:14:19.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="scyzMpDHvjS94HZrCQEe" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T18:16:10.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WUjv-Jl2mFijMhzfxnJ1" version="24.2.3" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
     <mxGraphModel dx="1674" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -701,6 +701,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="550" as="sourcePoint" />
             <mxPoint x="1260" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDdJ1mUQbw4O07poYdPI-113" value="PEDIDO STATUS&lt;div&gt;&quot;aa&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="770" y="540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EDdJ1mUQbw4O07poYdPI-114" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1" source="EDdJ1mUQbw4O07poYdPI-103" target="EDdJ1mUQbw4O07poYdPI-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="280" as="sourcePoint" />
+            <mxPoint x="1960" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

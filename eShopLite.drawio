@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T18:08:09.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6gNpT8VmlwhJVgYWVzII" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T18:09:17.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ehL6leQNCUNw7ZV6I5Ed" version="24.2.3" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
     <mxGraphModel dx="1674" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OMD" id="ALVTAZZdUrmFklls3-fs">
-    <mxGraphModel dx="2765" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#e6e5e5" math="0" shadow="0">
       <root>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-0" />
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-1" parent="SI_UAVjBJ2jx-5zNlq3R-0" />

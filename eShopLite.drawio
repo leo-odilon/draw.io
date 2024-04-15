@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T19:00:36.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Np1u8YJbpjliwQC0ZVYv" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T19:01:31.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TdY183aK2hvtPDSZcknh" version="24.2.3" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OMD" id="ALVTAZZdUrmFklls3-fs">
-    <mxGraphModel dx="3048" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ededed" math="0" shadow="0">
+    <mxGraphModel dx="3368" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ededed" math="0" shadow="0">
       <root>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-0" />
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-1" parent="SI_UAVjBJ2jx-5zNlq3R-0" />
@@ -732,7 +732,7 @@
         <mxCell id="EDdJ1mUQbw4O07poYdPI-130" value="VERIFICAÇÃO EXATO DIGITAL" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
           <mxGeometry x="2690" y="590" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EDdJ1mUQbw4O07poYdPI-131" value="EMAIL COMPLIANCE CASO POSSUA ALERTA DE RISCOS DEFINIDOS PELA AUDI" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+        <mxCell id="EDdJ1mUQbw4O07poYdPI-131" value="EMAIL COMPLIANCE CASO RISCOS DEFINIDOS PELA AUDI" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
           <mxGeometry x="3030" y="590" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EDdJ1mUQbw4O07poYdPI-132" value="CRIA REGISTRO INTEGRITY CHECK" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
@@ -753,6 +753,27 @@
         </mxCell>
         <mxCell id="f_V84m2oF2gtm16jbYiK-1" value="CRIA OU ATUALIZA A CONTA DO CLIENTE" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
           <mxGeometry x="2007.5" y="1166" width="165" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="AbFCLu4iKSaOMSHWUWh5-0" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1" target="EDdJ1mUQbw4O07poYdPI-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2620" y="640" as="sourcePoint" />
+            <mxPoint x="2680" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbFCLu4iKSaOMSHWUWh5-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2790" y="638.67" as="sourcePoint" />
+            <mxPoint x="2860" y="638.67" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbFCLu4iKSaOMSHWUWh5-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2960" y="638.67" as="sourcePoint" />
+            <mxPoint x="3030" y="638.67" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

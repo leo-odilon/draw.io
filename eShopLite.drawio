@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T18:52:43.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CADt_bfVV7nhNHaoey-q" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-15T18:57:12.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yeJYByUK0YhxzPi1E8aj" version="24.2.3" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
-    <mxGraphModel dx="1674" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OMD" id="ALVTAZZdUrmFklls3-fs">
-    <mxGraphModel dx="2765" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#e6e5e5" math="0" shadow="0">
+    <mxGraphModel dx="3048" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#e6e5e5" math="0" shadow="0">
       <root>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-0" />
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-1" parent="SI_UAVjBJ2jx-5zNlq3R-0" />
@@ -744,6 +744,15 @@
             <mxPoint x="1320" y="869.33" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f_V84m2oF2gtm16jbYiK-0" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2089.33" y="1167" as="sourcePoint" />
+            <mxPoint x="2089.33" y="1107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_V84m2oF2gtm16jbYiK-1" value="CRIA OU ATUALIZA A CONTA DO CLIENTE" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="2007.5" y="1166" width="165" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

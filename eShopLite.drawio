@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T14:26:54.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CeMzSeR8AJ-MKO93Zler" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T16:18:44.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JZHF9Grik-2YACumcLj2" version="24.0.7" type="github">
   <diagram name="Página-1" id="lY3GMPpas5Dbr6yVs7Ak">
-    <mxGraphModel dx="2424" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4578" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,15 @@
         </mxCell>
         <mxCell id="162rXYACJ4V5PbVNqog7-90" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Dealer&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="1">
           <mxGeometry y="780" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="162rXYACJ4V5PbVNqog7-92" value="A reserva do veículo entendo que além de ser feita no OMS, também precisa ser feita no OMD, assim o veículo ficará bloqueado em todos os lugares, evitando que fique só no OMS e quem alguém fature no OMD. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="270" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="162rXYACJ4V5PbVNqog7-93" value="A análise do AML é feita na NSC dentro do OMD e não no Dealer. Talvez tenhamos que ter duas caixinhas, uma com validações do Dealer nos outros pontos e outra na NSC da validação do AML." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="360" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="162rXYACJ4V5PbVNqog7-94" value="No final, acredito que precisamos inverter a confirmação do DTC vs. o Handover do veículo. Um vem antes que o outro." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="450" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

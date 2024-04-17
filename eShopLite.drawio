@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T13:52:55.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2l7TAahKDXe9SJ0BXINQ" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T13:53:16.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yRT-fbd4ekIIIXkVovCB" version="24.2.5" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
     <mxGraphModel dx="2154" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -771,7 +771,7 @@
           <mxGeometry x="700" y="-100" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HoIFMRL0PxqzKxxsVA1D-3" value="ESHOP" style="whiteSpace=wrap;html=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
-          <mxGeometry x="190" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="2228" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

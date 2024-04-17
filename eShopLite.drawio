@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T19:48:08.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FFojMifbvpfZ2IgC3kjU" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T13:13:32.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3AIg5Ba035CFbCO2eP9i" version="24.2.5" type="github" pages="2">
   <diagram name="eShop" id="lY3GMPpas5Dbr6yVs7Ak">
-    <mxGraphModel dx="2366" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OMD" id="ALVTAZZdUrmFklls3-fs">
-    <mxGraphModel dx="3155" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ededed" math="0" shadow="0">
+    <mxGraphModel dx="3162" dy="2248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ededed" math="0" shadow="0">
       <root>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-0" />
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-1" parent="SI_UAVjBJ2jx-5zNlq3R-0" />
@@ -632,7 +632,7 @@
         <mxCell id="EDdJ1mUQbw4O07poYdPI-101" value="MENSAGEM DE SUCESSO OU ERRO (S/E)" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
           <mxGeometry x="949" y="-100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EDdJ1mUQbw4O07poYdPI-103" value="ATUALIZA INTERFACE&lt;div&gt;E2F2&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
+        <mxCell id="EDdJ1mUQbw4O07poYdPI-103" value="ATUALIZA INTERFACE H" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
           <mxGeometry x="949" y="540" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EDdJ1mUQbw4O07poYdPI-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="SI_UAVjBJ2jx-5zNlq3R-1" source="EDdJ1mUQbw4O07poYdPI-100" target="EDdJ1mUQbw4O07poYdPI-101" edge="1">
@@ -671,15 +671,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1259" y="550" as="sourcePoint" />
             <mxPoint x="1259" y="-100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EDdJ1mUQbw4O07poYdPI-113" value="PEDIDO STATUS&lt;div&gt;&quot;FATURAMENTO SOLICITADO&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
-          <mxGeometry x="769" y="540" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="EDdJ1mUQbw4O07poYdPI-114" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="SI_UAVjBJ2jx-5zNlq3R-1" source="EDdJ1mUQbw4O07poYdPI-103" target="EDdJ1mUQbw4O07poYdPI-113" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2049" y="280" as="sourcePoint" />
-            <mxPoint x="1959" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EDdJ1mUQbw4O07poYdPI-115" value="REJEITA APROVAÇÃO DE FATURAMENTO" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#DEC1BD;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">

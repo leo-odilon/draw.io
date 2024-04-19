@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T16:56:22.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NEZ5erZ53HZGqQydlBSp" version="24.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-19T16:59:27.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IY6yMmxNO84ZU4dFqzUZ" version="24.2.5" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2575" dy="1384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="SI_UAVjBJ2jx-5zNlq3R-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="440" as="sourcePoint" />
-            <mxPoint x="4020" y="440" as="targetPoint" />
+            <mxPoint x="4360" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-46" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Salesforce&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
@@ -726,7 +726,7 @@
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="SI_UAVjBJ2jx-5zNlq3R-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="750" as="sourcePoint" />
-            <mxPoint x="4000" y="760" as="targetPoint" />
+            <mxPoint x="4360" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SI_UAVjBJ2jx-5zNlq3R-74" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Dealer&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;OMD&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
@@ -941,7 +941,7 @@
         <mxCell id="EDdJ1mUQbw4O07poYdPI-70" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="SI_UAVjBJ2jx-5zNlq3R-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="70" as="sourcePoint" />
-            <mxPoint x="4020" y="70" as="targetPoint" />
+            <mxPoint x="4360" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EDdJ1mUQbw4O07poYdPI-71" value="CRIA APROVAÇÃO DE FATURAMENTO STATUS &quot;AGUARDANDO BOLETO&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="SI_UAVjBJ2jx-5zNlq3R-1" vertex="1">
@@ -1201,6 +1201,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3700" y="-110" as="sourcePoint" />
             <mxPoint x="3410" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-31" value="PROCESSO DE &quot;DELIVERY&quot; B21&lt;div&gt;RETIRA O VEÍCULO DO ESTOQUE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="3700" y="-100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3890" as="sourcePoint" />
+            <mxPoint x="3890" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-35" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;SOBE NOTA FISCAL DE VENDA NO eEVN&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=none;shadow=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="3840" y="840" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-36" value="PEDIDO EM B40" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="3840" y="-100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-37" value="PEDIDO EM B50" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="3980" y="-100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-38" value="VALIDA RECEBIMENTO E COMEÇA A CONTAR A GARANTIA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=none;shadow=1;" vertex="1" parent="SI_UAVjBJ2jx-5zNlq3R-1">
+          <mxGeometry x="3980" y="840" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBY-2JZj-tLI39LVEz0-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SI_UAVjBJ2jx-5zNlq3R-1" source="AdBY-2JZj-tLI39LVEz0-37" target="AdBY-2JZj-tLI39LVEz0-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3900" y="10" as="sourcePoint" />
+            <mxPoint x="3900" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

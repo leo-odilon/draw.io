@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T18:02:37.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qAoa4xRc9R-htPKS3kOo" version="24.2.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:04:51.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="J4KTegWq8okAu0SfNQEn" version="24.2.8" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1268,16 +1268,16 @@
           <mxGeometry x="54.44" y="1650" width="1635.56" height="920" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-19" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A7A5B5;strokeColor=none;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1540" y="456" width="270" height="280" as="geometry" />
+          <mxGeometry x="1540" y="461" width="270" height="274" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A7A5B5;strokeColor=none;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1330" y="460" width="160" height="280" as="geometry" />
+          <mxGeometry x="1330" y="465" width="160" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LBQQKkhx2l1dM_0d7CWi-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A7A5B5;strokeColor=none;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="270" y="450" width="270" height="280" as="geometry" />
+          <mxGeometry x="270" y="455" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LBQQKkhx2l1dM_0d7CWi-3" value="CATEGORIA DE VENDA&lt;div&gt;VENDA DIRETA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="290" y="470" width="100" height="100" as="geometry" />
+          <mxGeometry x="290" y="475" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A7A5B5;strokeColor=none;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="573" y="520" width="550" height="140" as="geometry" />
@@ -1313,7 +1313,7 @@
           <mxGeometry x="767.5" y="1070" width="165" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-31" value="SOLICITAÇÃO DE FATURAMENTO CRIADA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="290" y="600" width="100" height="100" as="geometry" />
+          <mxGeometry x="290" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-30" target="YNRih11PJGvqa1J-XmV3-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1355,13 +1355,13 @@
           <mxGeometry x="1361" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-62" value="SOLICITAÇÃO DE FATURAMENTO&amp;nbsp; STATUS &quot;APROVADO&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1690" y="600" width="100" height="100" as="geometry" />
+          <mxGeometry x="1690" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-63" value="PEDIDO ESTÁGIO &quot;APROVAÇÃO / CONFIRMAÇÃO&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1560" y="600" width="100" height="100" as="geometry" />
+          <mxGeometry x="1560" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-64" value="CRIA INTERFACE H&lt;div&gt;COM FUNCTIONALITY&lt;/div&gt;&lt;div&gt;ID 2 (FATU)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1560" y="480" width="100" height="100" as="geometry" />
+          <mxGeometry x="1560" y="485" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-65" value="APROVADO?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="1670" y="-80" width="80" height="80" as="geometry" />
@@ -1552,12 +1552,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-121" value="SOLICITAÇÃO DE FATURAMENTO&amp;nbsp; STATUS REJEITADA / CANCELADA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1361" y="630" width="100" height="100" as="geometry" />
+          <mxGeometry x="1361" y="485" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-122" value="PEDIDO STATUS B20&lt;div&gt;ESTOQUE AUDI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1361" y="480" width="100" height="100" as="geometry" />
+          <mxGeometry x="1361" y="605" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YNRih11PJGvqa1J-XmV3-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-60">
+        <mxCell id="YNRih11PJGvqa1J-XmV3-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-60" target="xAShdd7p6DmNmbJb2Dhf-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1669" y="242" as="sourcePoint" />
             <mxPoint x="1411" y="460" as="targetPoint" />
@@ -1585,16 +1585,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LBQQKkhx2l1dM_0d7CWi-4" value="TIPO DE VENDA&lt;div&gt;ESHOP&lt;/div&gt;&lt;div&gt;&lt;b&gt;(DEFINIR NOME)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="420" y="470" width="100" height="100" as="geometry" />
+          <mxGeometry x="420" y="475" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-5" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="440" y="438" width="100" height="58" as="geometry" />
+          <mxGeometry x="440" y="443" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;ESTÁGIO&amp;nbsp;&lt;div&gt;SOLIC. FAT. &quot;AGUARDANDO DOCUMENTAÇÃO&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="420" y="600" width="100" height="100" as="geometry" />
+          <mxGeometry x="420" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-9" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="440" y="570" width="100" height="58" as="geometry" />
+          <mxGeometry x="440" y="575" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1621,10 +1621,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-27" value="ENVIA INTERFACE H COMO VENDA DIRETA PARA O SAP" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1690" y="480" width="100" height="100" as="geometry" />
+          <mxGeometry x="1690" y="485" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-23" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1720" y="438" width="100" height="58" as="geometry" />
+          <mxGeometry x="1720" y="443" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-107" target="YNRih11PJGvqa1J-XmV3-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

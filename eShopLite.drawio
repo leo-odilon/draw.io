@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T18:01:52.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3E5Yw-Th_MXX6nYVJJBm" version="24.2.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:02:17.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="glNZCytIpJL9Q85j_fhB" version="24.2.8" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2037,6 +2037,9 @@
         </mxCell>
         <mxCell id="KhobWJXBY6lvanGXflQu-95" value="&quot;BLOQUEIO&quot; DO VEÍCULO ATRAVÉS DA CRIAÇÃO DE SOLICITAÇÃO DE FATURAMENTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="KhobWJXBY6lvanGXflQu-1">
           <mxGeometry x="100" y="579.5" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="s_a5Q4WslPqwJTCCv_Ze-0" value="INSERIR NO FLUXOGRAMA ESHOP" style="whiteSpace=wrap;html=1;" vertex="1" parent="KhobWJXBY6lvanGXflQu-1">
+          <mxGeometry x="1061" y="795" width="429" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

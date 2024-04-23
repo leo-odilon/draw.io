@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T19:25:14.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wzahd1Ym3qcx_RqKjmJg" version="24.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T19:44:27.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GpIGTdn0lZrFIA8P0oAV" version="24.2.8" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1260,7 +1260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="eShop Ajustes OMD" id="HA505l2YNZB-dNOeU1T6">
-    <mxGraphModel dx="3553" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ededed" math="0" shadow="0">
+    <mxGraphModel dx="2845" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ededed" math="0" shadow="0">
       <root>
         <mxCell id="YNRih11PJGvqa1J-XmV3-0" />
         <mxCell id="YNRih11PJGvqa1J-XmV3-1" parent="YNRih11PJGvqa1J-XmV3-0" />
@@ -1551,10 +1551,10 @@
             <mxPoint x="2130" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YNRih11PJGvqa1J-XmV3-121" value="SOLICITAÇÃO DE FATURAMENTO&amp;nbsp; STATUS REJEITADA / CANCELADA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
+        <mxCell id="YNRih11PJGvqa1J-XmV3-121" value="SOLICITAÇÃO DE FATURAMENTO&amp;nbsp; STATUS REJEITADA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
           <mxGeometry x="1361" y="485" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YNRih11PJGvqa1J-XmV3-122" value="PEDIDO STATUS B20&lt;div&gt;ESTOQUE AUDI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
+        <mxCell id="YNRih11PJGvqa1J-XmV3-122" value="PEDIDO STATUS APROVAÇÃO / CONFIRMAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
           <mxGeometry x="1361" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-123" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-60" target="xAShdd7p6DmNmbJb2Dhf-26" edge="1">
@@ -1653,7 +1653,7 @@
         <mxCell id="-6rWl2pdIGdQcy1qNX4V-4" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
           <mxGeometry x="460" y="585" width="80" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="MogLARrDMIYZpmerG3h--0" value="VEÍCULOS JÁ PRÉ-CONFIGURADOS SERÃO DISPONIBILIZADOS NO VTP" style="whiteSpace=wrap;html=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
+        <mxCell id="MogLARrDMIYZpmerG3h--0" value="VEÍCULOS JÁ PRÉ-CONFIGURADOS SERÃO DISPONIBILIZADOS NO VTP" style="whiteSpace=wrap;html=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
           <mxGeometry x="100" y="535" width="120" height="99" as="geometry" />
         </mxCell>
       </root>

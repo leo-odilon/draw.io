@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T18:04:51.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="J4KTegWq8okAu0SfNQEn" version="24.2.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:05:53.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="op9ITjWrQiFLAyeBAI0r" version="24.2.8" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1297,9 +1297,9 @@
         <mxCell id="YNRih11PJGvqa1J-XmV3-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Salesforce&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="-29" y="510" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="YNRih11PJGvqa1J-XmV3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="xAShdd7p6DmNmbJb2Dhf-15">
+        <mxCell id="YNRih11PJGvqa1J-XmV3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="-6rWl2pdIGdQcy1qNX4V-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="750" as="sourcePoint" />
+            <mxPoint x="71" y="750" as="sourcePoint" />
             <mxPoint x="4360" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1588,13 +1588,10 @@
           <mxGeometry x="420" y="475" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-5" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="440" y="443" width="100" height="58" as="geometry" />
+          <mxGeometry x="460" y="460" width="80" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="xAShdd7p6DmNmbJb2Dhf-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;ESTÁGIO&amp;nbsp;&lt;div&gt;SOLIC. FAT. &quot;AGUARDANDO DOCUMENTAÇÃO&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
+        <mxCell id="xAShdd7p6DmNmbJb2Dhf-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ESTÁGIO&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SOLIC. FAT. &quot;AGUARDANDO DOCUMENTAÇÃO&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="420" y="605" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="xAShdd7p6DmNmbJb2Dhf-9" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="440" y="575" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1605,15 +1602,6 @@
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-14" value="BOTÃO ENVIAR DOC. NA SOLICITAÇÃO DE FATURAMENTO" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="798" y="760" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xAShdd7p6DmNmbJb2Dhf-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" target="xAShdd7p6DmNmbJb2Dhf-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="750" as="sourcePoint" />
-            <mxPoint x="4360" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xAShdd7p6DmNmbJb2Dhf-15" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="848" y="720" width="100" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" target="YNRih11PJGvqa1J-XmV3-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="760" as="sourcePoint" />
@@ -1622,9 +1610,6 @@
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-27" value="ENVIA INTERFACE H COMO VENDA DIRETA PARA O SAP" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="1690" y="485" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="xAShdd7p6DmNmbJb2Dhf-23" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="1720" y="443" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="xAShdd7p6DmNmbJb2Dhf-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-107" target="YNRih11PJGvqa1J-XmV3-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1652,6 +1637,21 @@
         </mxCell>
         <mxCell id="tQgBa-NdesoZA3L3wFX_-1" value="&quot;BLOQUEIO&quot; DO VEÍCULO ATRAVÉS DA CRIAÇÃO DE SOLICITAÇÃO DE FATURAMENTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
           <mxGeometry x="100" y="579.5" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="-6rWl2pdIGdQcy1qNX4V-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="YNRih11PJGvqa1J-XmV3-1" target="-6rWl2pdIGdQcy1qNX4V-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71" y="750" as="sourcePoint" />
+            <mxPoint x="4360" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6rWl2pdIGdQcy1qNX4V-0" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
+          <mxGeometry x="840" y="735" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-6rWl2pdIGdQcy1qNX4V-3" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
+          <mxGeometry x="1730" y="461" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-6rWl2pdIGdQcy1qNX4V-4" value="CRIAR SF" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
+          <mxGeometry x="460" y="585" width="80" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

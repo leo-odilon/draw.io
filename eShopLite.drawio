@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T20:18:10.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="r-QRgHNYiy33Ra1eoTur" version="24.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T20:26:52.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="faAJIckNKAG_iwjSAGL7" version="24.2.7" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1666,7 +1666,7 @@
           <mxGeometry x="-900" y="2580" width="430" height="99" as="geometry" />
         </mxCell>
         <mxCell id="9M8eTMy7uX3YMT6lv9r8-3" value="Somente upload e atualização de documentos ou o Dealer poderá como o AS IS alterar dados do cliente." style="whiteSpace=wrap;html=1;" vertex="1" parent="YNRih11PJGvqa1J-XmV3-1">
-          <mxGeometry x="404" y="2590" width="430" height="99" as="geometry" />
+          <mxGeometry x="420" y="2590" width="430" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

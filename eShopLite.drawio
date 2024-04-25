@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T13:38:46.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UAm2F-dp9ywTwMC0gPFx" version="24.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-25T13:39:14.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VtL3ZZxVoSwLnJsa-2du" version="24.3.0" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="2634" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1307,18 +1307,18 @@
           <mxGeometry x="-39" y="810" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-29" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;UPLOAD DOCUMENTOS&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
-          <mxGeometry x="800" y="920" width="100" height="100" as="geometry" />
+          <mxGeometry x="800" y="801" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-30" value="&lt;div style=&quot;&quot;&gt;CPF&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Comprovante de endereço&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Documento de Identificação&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;RG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#E3D2C0;strokeColor=none;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
-          <mxGeometry x="767.5" y="1070" width="165" height="150" as="geometry" />
+          <mxGeometry x="767.5" y="951" width="165" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-31" value="SOLICITAÇÃO DE FATURAMENTO CRIADA" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
           <mxGeometry x="290" y="605" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="YNRih11PJGvqa1J-XmV3-1" source="YNRih11PJGvqa1J-XmV3-30" target="YNRih11PJGvqa1J-XmV3-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="577" y="900" as="sourcePoint" />
-            <mxPoint x="627" y="850" as="targetPoint" />
+            <mxPoint x="577" y="781" as="sourcePoint" />
+            <mxPoint x="627" y="731" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YNRih11PJGvqa1J-XmV3-52" value="SOLICITAÇÃO DE FATURAMENTO&amp;nbsp; STATUS &quot;AGUARDANDO APROVAÇÃO&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d0cee2;strokeColor=none;shadow=1;" parent="YNRih11PJGvqa1J-XmV3-1" vertex="1">
@@ -1580,7 +1580,7 @@
             <mxPoint x="480" y="870" as="sourcePoint" />
             <mxPoint x="530" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="970" />
+              <mxPoint x="340" y="851" />
             </Array>
           </mxGeometry>
         </mxCell>

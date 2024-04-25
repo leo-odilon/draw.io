@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T18:59:35.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QjjzZYmyhDmOBhkxu1aX" version="24.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-25T19:00:11.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QBLu9-G7zIrCjtj0cLZD" version="24.3.0" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
     <mxGraphModel dx="1887" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2656,6 +2656,9 @@
             <mxPoint x="1010" y="836" as="sourcePoint" />
             <mxPoint x="1010" y="1551" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3cbi9Y956EPA8Xf_g2mW-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/mulesoft_logo_icon_170933.png;" vertex="1" parent="gs6WjKP8gF37uF4loPMI-1">
+          <mxGeometry x="980" y="1169" width="31" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T20:26:52.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="faAJIckNKAG_iwjSAGL7" version="24.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-25T12:29:52.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VnM5mZYahvIqMMWTYJ0T" version="24.3.0" type="github" pages="5">
   <diagram name="eShop - V2" id="9_c23VQiYz-ZuDp0p9pp">
-    <mxGraphModel dx="2526" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BrnzvFF4hsAE4f8hKFgj-0" />
         <mxCell id="BrnzvFF4hsAE4f8hKFgj-1" parent="BrnzvFF4hsAE4f8hKFgj-0" />
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="eShop - V2 - Temp" id="XODYwCU6EOyCrJP40ExW">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_9u_AgGbgWFL7bbuCy5R-0" />
         <mxCell id="_9u_AgGbgWFL7bbuCy5R-1" parent="_9u_AgGbgWFL7bbuCy5R-0" />
@@ -1671,8 +1671,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="eShop Visão Micro" id="-spF-60iKfvyWjfsFwF_">
-    <mxGraphModel dx="3173" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ededed" math="0" shadow="0">
+  <diagram name="eShop Visão Micro Temporário" id="-spF-60iKfvyWjfsFwF_">
+    <mxGraphModel dx="4288" dy="2414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ededed" math="0" shadow="0">
       <root>
         <mxCell id="eRbYxlAsRz6XMrjGRe0g-0" />
         <mxCell id="eRbYxlAsRz6XMrjGRe0g-1" parent="eRbYxlAsRz6XMrjGRe0g-0" />

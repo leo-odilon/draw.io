@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T19:39:25.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.9" etag="tEbKwwEHtyvwY-I2NjRe" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T19:55:05.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="i2RQG7114XfFXiV5rnPb" version="24.4.9" type="github">
   <diagram name="Page-1" id="VCNTo5o0oTuKVGOChiF5">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-1" target="rRkaqUsPxJgP9QN9gQN2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-1" target="rRkaqUsPxJgP9QN9gQN2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-1" value="Criação de usuário&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Edição de usuário&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-2" target="rRkaqUsPxJgP9QN9gQN2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-2" target="rRkaqUsPxJgP9QN9gQN2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-21" value="Interno" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rRkaqUsPxJgP9QN9gQN2-20">
+          <mxGeometry x="-0.275" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-2" value="Usuário interno ou dealer?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-4" value="criação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="108" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-5" value="Criação de usuário&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Edição de usuário&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-7" value="Edição" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-8" target="rRkaqUsPxJgP9QN9gQN2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-8" value="Dados:&lt;div&gt;Responsável pela requisição&lt;/div&gt;&lt;div&gt;Dados do usuário a ser criado&lt;br&gt;&lt;div&gt;Nome, email, DN...&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-10" value="Dealer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="108" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-11" target="rRkaqUsPxJgP9QN9gQN2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-11" value="Plataforma:&lt;div&gt;OMD s/n&lt;/div&gt;&lt;div&gt;Audi Smart gerente vend/pos-ven? app plus, mktplace?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OneCRM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Selec mult (?)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-13" target="rRkaqUsPxJgP9QN9gQN2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-13" value="Envio para aprovação do Nico" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-15" target="rRkaqUsPxJgP9QN9gQN2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-15" value="Envio para aprovação Elis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-17" value="Criação de Chamado no suporte para criação de usuário" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRkaqUsPxJgP9QN9gQN2-19" target="rRkaqUsPxJgP9QN9gQN2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-19" value="Dados do resp e do novo usuário" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRkaqUsPxJgP9QN9gQN2-22" value="Audi BR&lt;div&gt;OneCRM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

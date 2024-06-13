@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T14:32:12.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4RjEj1CzC3ru6oirBcuV" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:47:09.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wFvGybZRV6vqQuigP9Rz" version="24.5.4" type="github" pages="4">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -512,7 +512,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-18" value="DADOS CURADOS VOLTAM PARA A GOLD?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="mofCxXRRMLrcrCNCo-ho-17">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-18" value="DADOS CURADOS PARA A GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="mofCxXRRMLrcrCNCo-ho-17">
           <mxGeometry x="-0.1489" y="-1" relative="1" as="geometry">
             <mxPoint x="-41" y="-19" as="offset" />
           </mxGeometry>

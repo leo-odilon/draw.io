@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T16:35:55.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5ThwgOHEgOWoiO5cMn6a" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-13T18:13:55.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XWpYdb_rZ7KQw5Yfegsj" version="24.5.4" type="github" pages="4">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cd2ryVmS8qHGtjgT2yN0" name="Leonardo">
-    <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2747" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
           <mxGeometry x="524.8" y="850" width="745.2" height="410" as="geometry" />
         </mxCell>
         <mxCell id="mofCxXRRMLrcrCNCo-ho-14" value="DATAHUB / DATABRICKS" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;container=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="900" width="450" height="320" as="geometry">
+          <mxGeometry x="560" y="900" width="650" height="320" as="geometry">
             <mxRectangle x="560" y="790" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry x="193.60000000000002" y="76" width="62.8" height="68" as="geometry" />
         </mxCell>
         <mxCell id="xgLmia3B2odtzmd4oBi_-112" value="DADOS&lt;br&gt;DATAHUB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="600" y="975" width="60" height="70" as="geometry" />
+          <mxGeometry x="600" y="975" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xgLmia3B2odtzmd4oBi_-82" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="2050" height="536" as="geometry" />
@@ -521,24 +521,11 @@
         <mxCell id="mofCxXRRMLrcrCNCo-ho-15" value="SCORPION BR&lt;br&gt;AWS DATAHUB&lt;br&gt;(PARQUET)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1120" y="972" width="75" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="mofCxXRRMLrcrCNCo-ho-1" target="xgLmia3B2odtzmd4oBi_-112">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="943" y="1140" />
-              <mxPoint x="629" y="1140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-18" value="DADOS CURADOS PARA A GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="mofCxXRRMLrcrCNCo-ho-17">
-          <mxGeometry x="-0.1489" y="-1" relative="1" as="geometry">
-            <mxPoint x="-41" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="mofCxXRRMLrcrCNCo-ho-30" target="xgLmia3B2odtzmd4oBi_-112">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;dashed=1;strokeWidth=2;" edge="1" parent="1" source="mofCxXRRMLrcrCNCo-ho-30" target="xgLmia3B2odtzmd4oBi_-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1630" y="1190" />
-              <mxPoint x="630" y="1190" />
+              <mxPoint x="610" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -552,6 +539,131 @@
         </mxCell>
         <mxCell id="mofCxXRRMLrcrCNCo-ho-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="mofCxXRRMLrcrCNCo-ho-28" target="mofCxXRRMLrcrCNCo-ho-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;strokeWidth=2;dashed=1;" edge="1" parent="1" source="mofCxXRRMLrcrCNCo-ho-1" target="xgLmia3B2odtzmd4oBi_-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="1150" />
+              <mxPoint x="679" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-36" value="DADOS CURADOS - GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="z5E99uqr_elGQY48fFwk-35">
+          <mxGeometry x="0.1071" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-37" value="CAP" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;swimlaneHead=1;absoluteArcSize=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1540" width="450" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="z5E99uqr_elGQY48fFwk-37" source="z5E99uqr_elGQY48fFwk-39" target="z5E99uqr_elGQY48fFwk-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-39" value="AWS CAP &lt;br&gt;BUCKET" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;fontFamily=Helvetica;" vertex="1" parent="z5E99uqr_elGQY48fFwk-37">
+          <mxGeometry x="110" y="61" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-40" value="CAP &lt;br&gt;ENGINE" style="whiteSpace=wrap;html=1;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" parent="z5E99uqr_elGQY48fFwk-37">
+          <mxGeometry x="280" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-41" value="AWS VW BRASIL" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;swimlaneHead=1;absoluteArcSize=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="524.8" y="1490" width="1245.2" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-60" value="OUTPUTS" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=inherit;strokeColor=inherit;" vertex="1" parent="z5E99uqr_elGQY48fFwk-41">
+          <mxGeometry x="1025.2" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-42" value="DATAHUB / DATABRICKS" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;container=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1540" width="650" height="320" as="geometry">
+            <mxRectangle x="560" y="790" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-43" value="NOTEBOOKS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="z5E99uqr_elGQY48fFwk-42">
+          <mxGeometry x="193.60000000000002" y="76" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-44" value="DADOS&lt;br&gt;DATAHUB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1615" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-46" target="z5E99uqr_elGQY48fFwk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-46" value="WORKFLOW" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="912" y="1617" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-44" target="z5E99uqr_elGQY48fFwk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-43" target="z5E99uqr_elGQY48fFwk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-49" value="DADOS MAPEADOS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1440" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-49" target="z5E99uqr_elGQY48fFwk-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-52" target="z5E99uqr_elGQY48fFwk-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-52" value="DADOS NÃO &lt;br&gt;MAPEADOS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1615" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-53" value="INGESTÃO &lt;br&gt;TBD" style="whiteSpace=wrap;html=1;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-53" target="z5E99uqr_elGQY48fFwk-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-57" target="z5E99uqr_elGQY48fFwk-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="1651" />
+              <mxPoint x="1340" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-56" value="S3 REPLICATION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="z5E99uqr_elGQY48fFwk-55">
+          <mxGeometry x="-0.3759" y="2" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-57" value="SCORPION BR&lt;br&gt;AWS DATAHUB&lt;br&gt;(PARQUET)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1612" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;dashed=1;strokeWidth=2;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-60" target="z5E99uqr_elGQY48fFwk-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="1830" />
+              <mxPoint x="610" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-59" value="RETORNO PARA O DATAHUB (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="z5E99uqr_elGQY48fFwk-58">
+          <mxGeometry x="-0.4568" y="-2" relative="1" as="geometry">
+            <mxPoint x="74" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-40" target="z5E99uqr_elGQY48fFwk-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;strokeWidth=2;dashed=1;" edge="1" parent="1" source="z5E99uqr_elGQY48fFwk-46" target="z5E99uqr_elGQY48fFwk-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="1790" />
+              <mxPoint x="679" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-63" value="DADOS CURADOS - GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" vertex="1" connectable="0" parent="z5E99uqr_elGQY48fFwk-62">
+          <mxGeometry x="0.1071" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-64" value="CAP INSTANCIADO EM UMA CONTA AWS EXTERNA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=22;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="750" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5E99uqr_elGQY48fFwk-65" value="CAP INSTANCIADO EM NA CONTA AWS BRASIL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=22;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1410" width="520" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

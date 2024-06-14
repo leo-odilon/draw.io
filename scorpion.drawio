@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T11:38:47.304Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B2_AGbHWOeABQKnUERVi" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-14T19:59:35.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qiFe06WJp898Uz-4Fihh" version="24.5.4" type="github" pages="4">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="mofCxXRRMLrcrCNCo-ho-28" value="CAP &lt;br&gt;ENGINE" style="whiteSpace=wrap;html=1;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="mofCxXRRMLrcrCNCo-ho-23" vertex="1">
           <mxGeometry x="280" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-21" value="AWS VW BRASIL" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;swimlaneHead=1;absoluteArcSize=0;container=0;" parent="1" vertex="1">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-21" value="AWS VW BRAZIL" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;swimlaneHead=1;absoluteArcSize=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="524.8" y="850" width="745.2" height="410" as="geometry" />
         </mxCell>
         <mxCell id="mofCxXRRMLrcrCNCo-ho-14" value="DATAHUB / DATABRICKS" style="swimlane;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;container=0;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="xgLmia3B2odtzmd4oBi_-111" value="NOTEBOOKS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="mofCxXRRMLrcrCNCo-ho-14" vertex="1">
           <mxGeometry x="193.60000000000002" y="76" width="62.8" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="xgLmia3B2odtzmd4oBi_-112" value="DADOS&lt;br&gt;DATAHUB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
+        <mxCell id="xgLmia3B2odtzmd4oBi_-112" value="DATAHUB&lt;br&gt;DATA" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
           <mxGeometry x="600" y="975" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xgLmia3B2odtzmd4oBi_-82" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -485,7 +485,7 @@
         <mxCell id="mofCxXRRMLrcrCNCo-ho-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" source="xgLmia3B2odtzmd4oBi_-111" target="mofCxXRRMLrcrCNCo-ho-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-4" value="DADOS MAPEADOS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-4" value="KNOWN&lt;br&gt;DATA" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="160" y="800" width="64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mofCxXRRMLrcrCNCo-ho-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" source="mofCxXRRMLrcrCNCo-ho-4" target="xgLmia3B2odtzmd4oBi_-112" edge="1">
@@ -496,10 +496,10 @@
             <mxPoint x="310" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-6" value="DADOS NÃO &lt;br&gt;MAPEADOS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-6" value="DATA TO BE &lt;br&gt;DISCOVERED" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;strokeColor=inherit;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="160" y="975" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-7" value="INGESTÃO &lt;br&gt;TBD" style="whiteSpace=wrap;html=1;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-7" value="INGESTION &lt;br&gt;TBD" style="whiteSpace=wrap;html=1;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="350" y="970" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mofCxXRRMLrcrCNCo-ho-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" parent="1" source="mofCxXRRMLrcrCNCo-ho-7" target="xgLmia3B2odtzmd4oBi_-112" edge="1">
@@ -529,7 +529,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mofCxXRRMLrcrCNCo-ho-34" value="RETORNO PARA O DATAHUB (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="mofCxXRRMLrcrCNCo-ho-32" vertex="1" connectable="0">
+        <mxCell id="mofCxXRRMLrcrCNCo-ho-34" value="RETURN TO DATAHUB (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="mofCxXRRMLrcrCNCo-ho-32" vertex="1" connectable="0">
           <mxGeometry x="-0.4568" y="-2" relative="1" as="geometry">
             <mxPoint x="74" y="-8" as="offset" />
           </mxGeometry>
@@ -548,7 +548,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5E99uqr_elGQY48fFwk-36" value="DADOS CURADOS - GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="z5E99uqr_elGQY48fFwk-35" vertex="1" connectable="0">
+        <mxCell id="z5E99uqr_elGQY48fFwk-36" value="CURATED DATA - GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="z5E99uqr_elGQY48fFwk-35" vertex="1" connectable="0">
           <mxGeometry x="0.1071" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-19" as="offset" />
           </mxGeometry>
@@ -659,8 +659,8 @@
             <mxPoint x="24" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5E99uqr_elGQY48fFwk-64" value="CAP INSTANCIADO EM UMA CONTA AWS EXTERNA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=22;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="690" y="750" width="560" height="40" as="geometry" />
+        <mxCell id="z5E99uqr_elGQY48fFwk-64" value="CAP INSTANCED IN AN EXTERNAL AWS ACCOUNT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=22;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="695" y="750" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z5E99uqr_elGQY48fFwk-65" value="CAP INSTANCIADO EM NA CONTA AWS BRASIL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=22;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="720" y="1410" width="520" height="40" as="geometry" />

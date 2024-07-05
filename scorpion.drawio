@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T14:36:02.260Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="azaNT3BoE6X0KvsmD8zb" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-05T14:47:27.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0SyeqN9_veTKs3Q0Gbyd" version="24.6.4" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -675,12 +675,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qRduNRpskGBdvPVffBLc" name="Fluxo Tabelas">
-    <mxGraphModel dx="682" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k5Esv-RElUaKZkvHN1vK-1" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot; style=&quot;height: 15pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;20&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15pt;&quot;&gt;Vehicle Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="130" width="280" height="30" as="geometry" />
+          <mxGeometry x="1060" y="180" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-2" value="&lt;div style=&quot;font-size: medium;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189607158&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Service Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1180" y="480" width="280" height="30" as="geometry" />
@@ -703,17 +703,29 @@
         <mxCell id="k5Esv-RElUaKZkvHN1vK-8" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189607158&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189622109&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189693107&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189719375&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Contacted from Marketing Campaigns&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1180" y="960" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k5Esv-RElUaKZkvHN1vK-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5Esv-RElUaKZkvHN1vK-9" target="k5Esv-RElUaKZkvHN1vK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-9" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;samis&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_vehicle_retail_sales&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="600" y="10" width="320" height="30" as="geometry" />
+          <mxGeometry x="600" y="60" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k5Esv-RElUaKZkvHN1vK-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5Esv-RElUaKZkvHN1vK-10" target="k5Esv-RElUaKZkvHN1vK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-10" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;samis&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_vehicle_wholesales&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="320" height="30" as="geometry" />
+          <mxGeometry x="600" y="140" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k5Esv-RElUaKZkvHN1vK-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5Esv-RElUaKZkvHN1vK-11" target="k5Esv-RElUaKZkvHN1vK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-11" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;finance&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_sv_sales_map&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="600" y="170" width="320" height="30" as="geometry" />
+          <mxGeometry x="600" y="220" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k5Esv-RElUaKZkvHN1vK-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5Esv-RElUaKZkvHN1vK-12" target="k5Esv-RElUaKZkvHN1vK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-12" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;samis&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_vehicle_product&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="320" height="30" as="geometry" />
+          <mxGeometry x="600" y="300" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

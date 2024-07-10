@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T19:19:50.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0EzLJR59SRPlrTAdEKyG" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-10T19:31:53.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="B7A2CxKl55x_slytNjY6" version="24.6.4" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -863,7 +863,7 @@
           <mxGeometry x="750" y="190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PWgmlubBwAzo6a26HFS-7" value="ACC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="730" y="700" width="50" height="30" as="geometry" />
+          <mxGeometry x="750" y="700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PWgmlubBwAzo6a26HFS-8" value="mainframe - tabela deal_customer / dev apenas / sob demanda / &lt;br&gt;não necessita de historico, apenas ativos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="755" width="370" height="40" as="geometry" />
@@ -872,7 +872,7 @@
           <mxGeometry x="70" y="1165" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2PWgmlubBwAzo6a26HFS-9" value="ACC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="810" width="50" height="30" as="geometry" />
+          <mxGeometry x="770" y="810" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-2" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189607158&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189675402&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Finance Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1170" width="280" height="30" as="geometry" />
@@ -899,7 +899,7 @@
           <mxGeometry x="760" y="990" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-6" value="SAGA --&amp;gt; SAP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1280" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="1110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PWgmlubBwAzo6a26HFS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2PWgmlubBwAzo6a26HFS-13" target="k5Esv-RElUaKZkvHN1vK-4">
           <mxGeometry relative="1" as="geometry" />
@@ -917,7 +917,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-9" value="MARA - Fazer a ingestão pois já está no S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1320" width="260" height="30" as="geometry" />
+          <mxGeometry x="470" y="1080" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0w7NLvlesJab5Q5kgTNc-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=-0.041;entryY=0.467;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="2PWgmlubBwAzo6a26HFS-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1170" as="sourcePoint" />
+            <mxPoint x="585" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="1130" />
+              <mxPoint x="711" y="1130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

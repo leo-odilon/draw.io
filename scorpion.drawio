@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T18:26:08.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ndIPJnMWcJqInBqGE4OF" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-11T18:46:22.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oESsalfwSAjwP9kFiSQ_" version="24.6.4" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -931,6 +931,9 @@
         </mxCell>
         <mxCell id="4VFRnfYywF_O8a6MfB2--1" value="Vehicle master - camada gold (catalog sales - sales)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1050" y="130" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4VFRnfYywF_O8a6MfB2--2" value="tb_customer - catalog sales - sales (dev / ~2/08 em prod)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="470" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T18:46:22.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oESsalfwSAjwP9kFiSQ_" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-15T17:24:48.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Vl6Mf5TowIy8ChDY7Fo6" version="24.6.4" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -675,7 +675,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qRduNRpskGBdvPVffBLc" name="Fluxo Tabelas">
-    <mxGraphModel dx="847" dy="1359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -899,7 +899,7 @@
           <mxGeometry x="760" y="990" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-6" value="SAGA --&amp;gt; SAP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1110" width="100" height="30" as="geometry" />
+          <mxGeometry x="270" y="1110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PWgmlubBwAzo6a26HFS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2PWgmlubBwAzo6a26HFS-13" target="k5Esv-RElUaKZkvHN1vK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -917,11 +917,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-9" value="MARA - Fazer a ingestão pois já está no S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1080" width="260" height="30" as="geometry" />
+          <mxGeometry x="430" y="1070" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0w7NLvlesJab5Q5kgTNc-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=-0.041;entryY=0.467;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" target="2PWgmlubBwAzo6a26HFS-13" edge="1">
+        <mxCell id="0w7NLvlesJab5Q5kgTNc-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=-0.041;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2PWgmlubBwAzo6a26HFS-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1170" as="sourcePoint" />
+            <mxPoint x="400" y="1130" as="sourcePoint" />
             <mxPoint x="585" y="1170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="1130" />
@@ -929,10 +929,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4VFRnfYywF_O8a6MfB2--1" value="Vehicle master - camada gold (catalog sales - sales)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4VFRnfYywF_O8a6MfB2--1" value="Vehicle master - camada gold (catalog sales - sales)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1050" y="130" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4VFRnfYywF_O8a6MfB2--2" value="tb_customer - catalog sales - sales (dev / ~2/08 em prod)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4VFRnfYywF_O8a6MfB2--2" value="tb_customer - catalog sales - sales (dev / ~2/08 em prod)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1025" y="470" width="330" height="30" as="geometry" />
         </mxCell>
       </root>

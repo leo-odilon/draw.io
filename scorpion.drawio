@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T13:00:01.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6On16ATWeJskN5vRhKhd" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-17T14:13:55.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-sLH7J-o-MnwX2Aqtwro" version="24.7.1" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -984,6 +984,9 @@
         <mxCell id="CcMdJF53DjFHZg8Nce69-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-5" target="CcMdJF53DjFHZg8Nce69-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CcMdJF53DjFHZg8Nce69-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-5" target="CcMdJF53DjFHZg8Nce69-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-5" value="&lt;b&gt;SAMIS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="204.5" y="-13" width="127" height="41" as="geometry" />
         </mxCell>
@@ -994,38 +997,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-8" value="&lt;b&gt;Auto Service +&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-13" width="127" height="41" as="geometry" />
+          <mxGeometry x="751" y="-18" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-12" target="CcMdJF53DjFHZg8Nce69-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CcMdJF53DjFHZg8Nce69-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-12" target="CcMdJF53DjFHZg8Nce69-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-12" target="CcMdJF53DjFHZg8Nce69-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-12" value="&lt;b&gt;Salesforce&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="909.5" y="-13" width="127" height="41" as="geometry" />
+          <mxGeometry x="1008" y="-18" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-13" value="Service Table" style="swimlane;fillColor=#FFCCE6;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="411" y="100" width="200" height="370" as="geometry">
+          <mxGeometry x="602" y="95" width="200" height="370" as="geometry">
             <mxRectangle x="380" y="90" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-14" value="&lt;br&gt;&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;customer_id&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;Fleet_customer&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;dealer_code&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;vin_check&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;invoice_number&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;part_group&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;part_description&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;invoice_date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;mileage&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;repair_type&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;labor_cost&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;part_price&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;part_quantity&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;next_MOT&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-13">
           <mxGeometry x="25" width="150" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="CcMdJF53DjFHZg8Nce69-15" value="Customer Relation Table" style="swimlane;gradientDirection=east;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="883" y="98" width="180" height="150" as="geometry">
-            <mxRectangle x="620" y="90" width="180" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CcMdJF53DjFHZg8Nce69-16" value="&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;fleet_flag&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;Customer_ID&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;relation_start&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;relation_end&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-15">
-          <mxGeometry x="60" y="70" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-17" value="Warranty / Customer Care Table" style="swimlane;fillColor=#FFFF99;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="710" y="391" width="220" height="150" as="geometry">
+          <mxGeometry x="901" y="386" width="220" height="150" as="geometry">
             <mxRectangle x="840" y="90" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1033,7 +1025,7 @@
           <mxGeometry x="80" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-19" value="Finance Table" style="swimlane;fillColor=#f8cecc;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="396" width="200" height="130" as="geometry" />
+          <mxGeometry x="1201" y="391" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-20" value="&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;has_financing&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;financing_start _date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;financing_end_date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-19">
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
@@ -1047,13 +1039,13 @@
           <mxGeometry x="70" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-23" value="Customer Consent Table" style="swimlane;fillColor=#99FFFF;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="647" y="99" width="200" height="110" as="geometry" />
+          <mxGeometry x="838" y="94" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-24" value="&lt;br&gt;&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;customer_id&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;consent&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-23">
           <mxGeometry x="70" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-25" value="Contacted from Marketing Campaigns" style="swimlane;fillColor=#ffe6cc;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="97" width="250" height="190" as="geometry" />
+          <mxGeometry x="1071" y="95" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-26" value="&lt;br&gt;&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;customer_id&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;date of contact&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;campaign type id&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;campaign start date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;campaign end date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;HPG focus&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-25">
           <mxGeometry x="95" y="80" width="60" height="30" as="geometry" />
@@ -1062,13 +1054,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-28" value="&lt;b&gt;Banco VW&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1046" y="314" width="127" height="41" as="geometry" />
+          <mxGeometry x="1237" y="309" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-30" target="CcMdJF53DjFHZg8Nce69-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-30" value="&lt;b&gt;SAGA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="758" y="314" width="127" height="41" as="geometry" />
+          <mxGeometry x="949" y="309" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-32" target="CcMdJF53DjFHZg8Nce69-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1080,7 +1072,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-34" value="&lt;b&gt;MARA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-13" width="127" height="41" as="geometry" />
+          <mxGeometry x="581" y="-18" width="127" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CcMdJF53DjFHZg8Nce69-35" value="Customer Relation Table" style="swimlane;gradientDirection=east;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="401" y="105" width="180" height="150" as="geometry">
+            <mxRectangle x="620" y="90" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CcMdJF53DjFHZg8Nce69-36" value="&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;fleet_flag&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;Customer_ID&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;relation_start&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;relation_end&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-35">
+          <mxGeometry x="60" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

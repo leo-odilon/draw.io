@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T14:13:55.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-sLH7J-o-MnwX2Aqtwro" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-17T15:13:35.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ntMDKKa_cUzUxf-Izgzq" version="24.7.1" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1017,7 +1017,7 @@
           <mxGeometry x="25" width="150" height="370" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-17" value="Warranty / Customer Care Table" style="swimlane;fillColor=#FFFF99;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="901" y="386" width="220" height="150" as="geometry">
+          <mxGeometry x="-51" y="508" width="220" height="150" as="geometry">
             <mxRectangle x="840" y="90" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1025,7 +1025,7 @@
           <mxGeometry x="80" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-19" value="Finance Table" style="swimlane;fillColor=#f8cecc;gradientDirection=east;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="391" width="200" height="130" as="geometry" />
+          <mxGeometry x="249" y="513" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-20" value="&lt;table width=&quot;187&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5984;width:140pt&quot; width=&quot;187&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:140pt&quot; width=&quot;187&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;VIN&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;has_financing&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;financing_start _date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt&quot; class=&quot;xl65&quot; height=&quot;21&quot;&gt;financing_end_date&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CcMdJF53DjFHZg8Nce69-19">
           <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
@@ -1054,13 +1054,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-28" value="&lt;b&gt;Banco VW&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1237" y="309" width="127" height="41" as="geometry" />
+          <mxGeometry x="285" y="431" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-30" target="CcMdJF53DjFHZg8Nce69-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-30" value="&lt;b&gt;SAGA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="949" y="309" width="127" height="41" as="geometry" />
+          <mxGeometry x="-3" y="431" width="127" height="41" as="geometry" />
         </mxCell>
         <mxCell id="CcMdJF53DjFHZg8Nce69-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CcMdJF53DjFHZg8Nce69-32" target="CcMdJF53DjFHZg8Nce69-1">
           <mxGeometry relative="1" as="geometry" />

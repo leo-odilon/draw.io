@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T19:38:55.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KTF9opdu28zZVgUxJHcZ" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-18T20:00:43.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l7osfpXXqMeuClTvPIdj" version="24.7.1" type="github" pages="6">
   <diagram name="Duvidas" id="4ImuVWxjHxCkxXey1Qk4">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qRduNRpskGBdvPVffBLc" name="Fluxo Tabelas">
-    <mxGraphModel dx="824" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4578" dy="3287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -936,7 +936,7 @@
         <mxCell id="4VFRnfYywF_O8a6MfB2--2" value="tb_customer - catalog sales - sales (dev / ~2/08 em prod)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1055" y="510" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rmoL4z3fJ2_2GLMntFUh-8" target="k5Esv-RElUaKZkvHN1vK-1">
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rmoL4z3fJ2_2GLMntFUh-8" target="k5Esv-RElUaKZkvHN1vK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rmoL4z3fJ2_2GLMntFUh-8" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;A definir (dados de motor)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -948,7 +948,7 @@
         <mxCell id="rmoL4z3fJ2_2GLMntFUh-11" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: collapse; background-color: rgb(251, 251, 251);&quot;&gt;MARA - Fazer a ingestão pois já está no S3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="70" y="1080" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rmoL4z3fJ2_2GLMntFUh-12" target="k5Esv-RElUaKZkvHN1vK-2">
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rmoL4z3fJ2_2GLMntFUh-12" target="k5Esv-RElUaKZkvHN1vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rmoL4z3fJ2_2GLMntFUh-12" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;A definir (dados HPG)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -960,23 +960,23 @@
             <mxPoint x="600" y="1094.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbCbdrf9mOqZkkxF_8Di-1" target="QbCbdrf9mOqZkkxF_8Di-5">
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QbCbdrf9mOqZkkxF_8Di-1" target="QbCbdrf9mOqZkkxF_8Di-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-1" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;samis&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_vehicle_retail_sales&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1280" width="400" height="30" as="geometry" />
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-1" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;samis&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;tb_vehicle_retail_sales&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1210" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="QbCbdrf9mOqZkkxF_8Di-3" target="QbCbdrf9mOqZkkxF_8Di-1">
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="QbCbdrf9mOqZkkxF_8Di-3" target="QbCbdrf9mOqZkkxF_8Di-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-3" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;TBD - SISTEMA / PERIODICIDADE / RESPONSAVEL / HISTORICO&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1280" width="410" height="30" as="geometry" />
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-3" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;TBD - SISTEMA / PERIODICIDADE / RESPONSAVEL / HISTORICO&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1210" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-4" value="ACC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="1250" width="50" height="30" as="geometry" />
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-4" value="ACC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1180" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QbCbdrf9mOqZkkxF_8Di-5" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189607158&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189622109&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Customer Relation Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1280" width="280" height="30" as="geometry" />
+        <mxCell id="QbCbdrf9mOqZkkxF_8Di-5" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189607158&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189622109&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Customer Relation Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1075" y="1210" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

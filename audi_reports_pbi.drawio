@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T17:36:40.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tmhEU-7dg2wfb5eHBE1b" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T17:41:24.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uDEBY0QVuUEuMgbsAYRn" version="24.7.2" type="github">
   <diagram name="Página-1" id="nPSMqCyDaV3BsIFvw6c_">
     <mxGraphModel dx="1421" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5KljPU3xcHWFR9ef1r20-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="105.75" width="120" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5KljPU3xcHWFR9ef1r20-5" target="5KljPU3xcHWFR9ef1r20-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="390" height="195.5" as="geometry" />
         </mxCell>
+        <mxCell id="5KljPU3xcHWFR9ef1r20-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KljPU3xcHWFR9ef1r20-1" target="5KljPU3xcHWFR9ef1r20-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
-          <mxGeometry x="160" y="138.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="170.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-2" value="AppFlow" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.appflow;" vertex="1" parent="1">
           <mxGeometry x="300" y="151.75" width="78" height="78" as="geometry" />
@@ -59,12 +59,6 @@
         </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-22" value="Enriquecimento dos dados&lt;br&gt;&amp;nbsp;podem ser aplicado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="458.25" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5KljPU3xcHWFR9ef1r20-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/800px-Salesforce.com_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="75.37" height="52.75" as="geometry" />
-        </mxCell>
-        <mxCell id="5KljPU3xcHWFR9ef1r20-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KljPU3xcHWFR9ef1r20-24" target="5KljPU3xcHWFR9ef1r20-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5KljPU3xcHWFR9ef1r20-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="5KljPU3xcHWFR9ef1r20-13" target="5KljPU3xcHWFR9ef1r20-18">
           <mxGeometry relative="1" as="geometry">

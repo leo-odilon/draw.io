@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T11:58:18.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_gVU1qo6GKYdeGaMbACm" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T11:59:24.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QQVCjp6EjPVQnQ4liotC" version="24.7.2" type="github">
   <diagram name="Página-1" id="-ysZiu4EWwWjdDpdFmY9">
     <mxGraphModel dx="847" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="2AuBlaV2GxarsQ9qmqeH-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SHZ-bhEQL5eEIDplbyfm-49" target="SHZ-bhEQL5eEIDplbyfm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SHZ-bhEQL5eEIDplbyfm-49" value="Config" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="SHZ-bhEQL5eEIDplbyfm-49" value="Config" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="705" y="414" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SHZ-bhEQL5eEIDplbyfm-52" value="TRIAGEM SALESFORCE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontStyle=0" parent="1" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="2AuBlaV2GxarsQ9qmqeH-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SHZ-bhEQL5eEIDplbyfm-61" target="SHZ-bhEQL5eEIDplbyfm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SHZ-bhEQL5eEIDplbyfm-61" value="Infos" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="SHZ-bhEQL5eEIDplbyfm-61" value="Infos" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="525.0000000000002" y="414" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2AuBlaV2GxarsQ9qmqeH-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/I/ibm-watson-logo-2FE8F505F0-seeklogo.com.png;" vertex="1" parent="1">
@@ -93,8 +93,8 @@
         <mxCell id="2AuBlaV2GxarsQ9qmqeH-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SHZ-bhEQL5eEIDplbyfm-48" target="SHZ-bhEQL5eEIDplbyfm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SHZ-bhEQL5eEIDplbyfm-48" value="Parans" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="615.1199999999999" y="414" width="47.5" height="50" as="geometry" />
+        <mxCell id="SHZ-bhEQL5eEIDplbyfm-48" value="Parans" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.rdp_remoting_file;pointerEvents=1;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="615.1199999999999" y="415" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2AuBlaV2GxarsQ9qmqeH-13" value="Delivery" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" vertex="1" parent="1">
           <mxGeometry x="967" y="484" width="76" height="76" as="geometry" />

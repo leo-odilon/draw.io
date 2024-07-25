@@ -113,6 +113,9 @@
         <mxCell id="L90-T2MM-WtYUE61e_4I-15" value="Power Bi" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="910" y="955" width="51" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="L90-T2MM-WtYUE61e_4I-17" value="Replicação a nivel do banco de dados (Oracle)&lt;br style=&quot;font-size: 18px;&quot;&gt;Não conecta diretamente a aplicação SAP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="205" y="710" width="400" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

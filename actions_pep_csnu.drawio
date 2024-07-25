@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nodejsera.com/library/assets/img/ga.png;" parent="1" vertex="1">
-          <mxGeometry x="50" y="40" width="362" height="120" as="geometry" />
+          <mxGeometry x="135.87" y="690" width="362" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-7" value="Public Network" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="220" width="131" height="190" as="geometry" />
+          <mxGeometry x="166.5" y="210" width="131" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-2" value="Pessoa&lt;br&gt;Publicamente&lt;br&gt;Exposta&lt;br&gt;(PEP)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website_public;" parent="Ze5r0wGW6DJFezeRPcf4-7" vertex="1">
           <mxGeometry x="36.5" y="50" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-8" value="Public Network" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="450" width="131" height="190" as="geometry" />
+          <mxGeometry x="166.5" y="440" width="131" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-3" value="Conselho de &lt;br&gt;Segurança das &lt;br&gt;Nações Unidas &lt;br&gt;(CSNU)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website_public;" parent="Ze5r0wGW6DJFezeRPcf4-8" vertex="1">
           <mxGeometry x="36.5" y="50" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-10" value="Github Enterprise" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="221" width="430" height="419" as="geometry" />
+          <mxGeometry x="356.5" y="211" width="430" height="419" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Ze5r0wGW6DJFezeRPcf4-10" source="Ze5r0wGW6DJFezeRPcf4-4" target="Ze5r0wGW6DJFezeRPcf4-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-15" value="Prepara Data PEP" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" parent="Ze5r0wGW6DJFezeRPcf4-10" vertex="1">
-          <mxGeometry x="170" y="43" width="76" height="76" as="geometry" />
+          <mxGeometry x="190" y="43" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Ze5r0wGW6DJFezeRPcf4-10" source="Ze5r0wGW6DJFezeRPcf4-16" target="Ze5r0wGW6DJFezeRPcf4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-16" value="Prepara Data CSNU" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" parent="Ze5r0wGW6DJFezeRPcf4-10" vertex="1">
-          <mxGeometry x="170" y="265" width="76" height="76" as="geometry" />
+          <mxGeometry x="190" y="265" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-19" value="Upinsert&#xa;SF" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" parent="Ze5r0wGW6DJFezeRPcf4-10" vertex="1">
           <mxGeometry x="307" y="155" width="76" height="76" as="geometry" />
@@ -56,10 +56,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" parent="1" vertex="1">
-          <mxGeometry x="740" y="320" width="187" height="187" as="geometry" />
+          <mxGeometry x="856.5" y="310" width="187" height="187" as="geometry" />
         </mxCell>
         <mxCell id="gxDCbjF_Y-QUrPPdqp1H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ze5r0wGW6DJFezeRPcf4-19" target="Ze5r0wGW6DJFezeRPcf4-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-2" value="CARGA PERIÓDICA PEP/CSNU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dbmstools.com/images/dbms/apache-parquet.png;" vertex="1" parent="1">
+          <mxGeometry x="465.87" y="719.38" width="183.75" height="61.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="675.87" y="703.75" width="164.44" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itechnasik.com/wp-content/uploads/2019/04/course-selenium.png;" vertex="1" parent="1">
+          <mxGeometry x="865.87" y="710" width="141.26" height="70.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

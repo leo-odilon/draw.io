@@ -1,5 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
-  <diagram name="Página-1" id="-Vgco-XB8DVjGrvwzShZ">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="3">
+  <diagram name="AS-IS" id="2HpxoxRsGkd6p0IhE_HD">
+    <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WFC3QxJYD73TDG-Ey-xm-0" />
+        <mxCell id="WFC3QxJYD73TDG-Ey-xm-1" parent="WFC3QxJYD73TDG-Ey-xm-0" />
+        <mxCell id="WFC3QxJYD73TDG-Ey-xm-21" value="AS IS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontStyle=0" vertex="1" parent="WFC3QxJYD73TDG-Ey-xm-1">
+          <mxGeometry x="550" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="TO-BE" id="-Vgco-XB8DVjGrvwzShZ">
     <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -58,19 +69,19 @@
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" parent="1" vertex="1">
           <mxGeometry x="856.5" y="310" width="187" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ze5r0wGW6DJFezeRPcf4-19" target="Ze5r0wGW6DJFezeRPcf4-24">
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ze5r0wGW6DJFezeRPcf4-19" target="Ze5r0wGW6DJFezeRPcf4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-2" value="CARGA PERIÓDICA PEP/CSNU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-2" value="CARGA PERIÓDICA PEP/CSNU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="490" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dbmstools.com/images/dbms/apache-parquet.png;" vertex="1" parent="1">
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dbmstools.com/images/dbms/apache-parquet.png;" parent="1" vertex="1">
           <mxGeometry x="465.87" y="719.38" width="183.75" height="61.25" as="geometry" />
         </mxCell>
-        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png;" vertex="1" parent="1">
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png;" parent="1" vertex="1">
           <mxGeometry x="675.87" y="703.75" width="164.44" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itechnasik.com/wp-content/uploads/2019/04/course-selenium.png;" vertex="1" parent="1">
+        <mxCell id="gxDCbjF_Y-QUrPPdqp1H-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itechnasik.com/wp-content/uploads/2019/04/course-selenium.png;" parent="1" vertex="1">
           <mxGeometry x="865.87" y="710" width="141.26" height="70.63" as="geometry" />
         </mxCell>
       </root>

@@ -46,7 +46,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nodejsera.com/library/assets/img/ga.png;" parent="1" vertex="1">
-          <mxGeometry x="135.87" y="690" width="362" height="120" as="geometry" />
+          <mxGeometry x="100" y="660" width="362" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ze5r0wGW6DJFezeRPcf4-7" value="Public Network" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="166.5" y="210" width="131" height="190" as="geometry" />
@@ -106,13 +106,13 @@
           <mxGeometry x="360" y="90" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxDCbjF_Y-QUrPPdqp1H-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dbmstools.com/images/dbms/apache-parquet.png;" parent="1" vertex="1">
-          <mxGeometry x="465.87" y="719.38" width="183.75" height="61.25" as="geometry" />
+          <mxGeometry x="430" y="689.38" width="183.75" height="61.25" as="geometry" />
         </mxCell>
         <mxCell id="gxDCbjF_Y-QUrPPdqp1H-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="675.87" y="703.75" width="164.44" height="92.5" as="geometry" />
+          <mxGeometry x="640" y="673.75" width="164.44" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="gxDCbjF_Y-QUrPPdqp1H-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itechnasik.com/wp-content/uploads/2019/04/course-selenium.png;" parent="1" vertex="1">
-          <mxGeometry x="865.87" y="710" width="141.26" height="70.63" as="geometry" />
+          <mxGeometry x="830" y="680" width="141.26" height="70.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

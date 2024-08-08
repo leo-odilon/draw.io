@@ -454,7 +454,9 @@
         <mxCell id="Ao2P5jj5RUt7meNS-70t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ao2P5jj5RUt7meNS-70t-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-12" y="1097" />
+              <mxPoint x="803" y="1126" />
+              <mxPoint x="803" y="1102" />
+              <mxPoint x="-12" y="1102" />
             </Array>
             <mxPoint x="1008" y="1133" as="sourcePoint" />
             <mxPoint x="-12" y="997" as="targetPoint" />

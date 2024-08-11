@@ -1,9 +1,74 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="3">
   <diagram name="Sumário" id="OZPCqsEvxnDNoLbMHyWd">
-    <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2747" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-1" value="Frontend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="240" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_react-2.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-1">
+          <mxGeometry x="20" y="59.5" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-1">
+          <mxGeometry x="131" y="67.75" width="65.13" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-2" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="200" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-2">
+          <mxGeometry x="42.860000000000014" y="65" width="114.28" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-3" value="Database / Query Eng" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="580" width="520" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-3">
+          <mxGeometry x="20" y="65" width="147.9" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167868.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-3">
+          <mxGeometry x="170" y="57" width="172" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spark.apache.org/images/Apache_Parquet_logo.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-3">
+          <mxGeometry x="350" y="57.5" width="156.77" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-4" value="Data Transformation" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="820" width="200" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-4">
+          <mxGeometry x="63.329999999999984" y="59" width="73.34" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-5" value="Container Registry" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1060" width="200" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-5">
+          <mxGeometry x="43.440000000000005" y="49.5" width="113.11" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-6" value="Version Control" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1300" width="200" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-6">
+          <mxGeometry x="24.439999999999998" y="57.5" width="151.11" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-7" value="Documentation" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1540" width="200" height="200" as="geometry">
+            <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-7">
+          <mxGeometry x="24.440000000000005" y="68.42999999999999" width="151.51" height="63.13" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

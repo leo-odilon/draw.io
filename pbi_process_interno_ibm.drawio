@@ -43,15 +43,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F7D5ANbE6mBbw14r0A7P-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-4">
-          <mxGeometry x="63.329999999999984" y="59" width="73.34" height="82" as="geometry" />
+          <mxGeometry x="54.83" y="49.5" width="90.33" height="101" as="geometry" />
         </mxCell>
         <mxCell id="F7D5ANbE6mBbw14r0A7P-5" value="Container Registry" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1060" width="200" height="200" as="geometry">
+          <mxGeometry x="110" y="1060" width="490" height="200" as="geometry">
             <mxRectangle x="240" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7D5ANbE6mBbw14r0A7P-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-5">
-          <mxGeometry x="43.440000000000005" y="49.5" width="113.11" height="101" as="geometry" />
+          <mxGeometry x="350" y="58" width="113.11" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="F7D5ANbE6mBbw14r0A7P-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sysaix.com/wp-content/uploads/2021/01/podman-logo-source-1.png;" vertex="1" parent="F7D5ANbE6mBbw14r0A7P-5">
+          <mxGeometry x="20" y="70" width="300.98" height="77" as="geometry" />
         </mxCell>
         <mxCell id="F7D5ANbE6mBbw14r0A7P-6" value="Version Control" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1300" width="200" height="200" as="geometry">

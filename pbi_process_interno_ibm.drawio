@@ -189,6 +189,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3MHZsua88Xsux4ghNYZf-1" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-1" value="CONTAINER" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-2" value="FRONTEND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-1">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-3" value="BACKEND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-4" value="DATABASE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-6" value="LOCAL STORAGE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-7" value="FRONTEND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-6">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-8" value="BACKEND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-6">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-9" value="DATABASE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-6">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqLsgtx8MSMAzKmiSJA1-10" value="STORAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JqLsgtx8MSMAzKmiSJA1-6">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

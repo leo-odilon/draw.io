@@ -444,7 +444,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ao2P5jj5RUt7meNS-70t-25" value="CURATED DATA - GOLD (TBD)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="Ao2P5jj5RUt7meNS-70t-24" vertex="1" connectable="0">
+        <mxCell id="Ao2P5jj5RUt7meNS-70t-25" value="CURATED DATA - GOLD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=inherit;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=inherit;" parent="Ao2P5jj5RUt7meNS-70t-24" vertex="1" connectable="0">
           <mxGeometry x="0.1071" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-19" as="offset" />
           </mxGeometry>

@@ -8,7 +8,7 @@
           <mxGeometry x="1080" y="170" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-2" value="&lt;div style=&quot;font-size: medium;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189607158&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Service Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="1095" width="280" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1054" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-4" value="&lt;div style=&quot;font-size: medium;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189664880&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Warranty - Customer care Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1076" y="2056.25" width="280" height="30" as="geometry" />
@@ -56,31 +56,31 @@
           <mxGeometry x="600" y="557" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-45" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;table style=&quot;font-size: medium; border-collapse: collapse; width: 182pt;&quot; width=&quot;243&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 182pt;&quot; width=&quot;243&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 15pt;&quot; height=&quot;20&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15pt;&quot; width=&quot;243&quot; height=&quot;20&quot; class=&quot;xl24&quot;&gt;Dealer Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=13;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="790" width="280" height="30" as="geometry" />
+          <mxGeometry x="1090" y="749" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;labelBackgroundColor=none;" parent="1" source="k5Esv-RElUaKZkvHN1vK-47" target="k5Esv-RElUaKZkvHN1vK-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k5Esv-RElUaKZkvHN1vK-47" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot;&gt;rvs_silver_dev&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;samis.tb_dealer&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="610" y="790" width="400" height="30" as="geometry" />
+          <mxGeometry x="610" y="749" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;" parent="1" source="GYdYpT-nYXbDmUwTrBcr-4" target="k5Esv-RElUaKZkvHN1vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-4" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;rvs_silver_dev.auto_service.tb_service_invoice&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="594" y="930" width="400" height="30" as="geometry" />
+          <mxGeometry x="594" y="889" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;" parent="1" source="GYdYpT-nYXbDmUwTrBcr-7" target="k5Esv-RElUaKZkvHN1vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-7" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;rvs_silver_dev.auto_service.tb_service_order_part_items&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="596" y="1065" width="400" height="30" as="geometry" />
+          <mxGeometry x="596" y="1024" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;" parent="1" source="GYdYpT-nYXbDmUwTrBcr-13" target="k5Esv-RElUaKZkvHN1vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GYdYpT-nYXbDmUwTrBcr-13" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;rvs_silver_dev.auto_service.tb_service_order&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="595" y="1000" width="400" height="30" as="geometry" />
+          <mxGeometry x="595" y="959" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0w7NLvlesJab5Q5kgTNc-2" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189607158&quot;&gt;&lt;div data-ccp-timestamp=&quot;1720189675402&quot; style=&quot;&quot;&gt;&lt;table width=&quot;243&quot; style=&quot;border-collapse: collapse; width: 182pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;243&quot; style=&quot;width: 182pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;21&quot; style=&quot;height: 15.75pt;&quot;&gt;&lt;td width=&quot;243&quot; height=&quot;21&quot; class=&quot;xl24&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap; width: 182pt; height: 15.75pt;&quot;&gt;Finance Table&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1076" y="1843.75" width="280" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rmoL4z3fJ2_2GLMntFUh-12" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;et2000_silver_dev.mm.tb_sv_et2k_materials_masterdata (MARA)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="594" y="1211" width="401" height="30" as="geometry" />
+          <mxGeometry x="594" y="1170" width="401" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QbCbdrf9mOqZkkxF_8Di-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="QbCbdrf9mOqZkkxF_8Di-1" target="QbCbdrf9mOqZkkxF_8Di-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-11" value="&lt;div data-ccp-timestamp=&quot;1720189577745&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;SAMIS&lt;br&gt;SINCRONIZAÇÃO: TRIGGER ARQUIVO - RVS&lt;br&gt;RESPONSÁVEL PELO FLUXO DE INGESTÃO: ACC&lt;br&gt;HISTORICO: N/A&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="70" y="760" width="410" height="90" as="geometry" />
+          <mxGeometry x="70" y="719" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="dHlC48cDX6uaIEWrEZCU-13" target="GYdYpT-nYXbDmUwTrBcr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,13 +152,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-13" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;AUTOSERVICE / AUTOSERVICE+&lt;br&gt;SINCRONIZAÇÃO: TBD - RVS&lt;br&gt;RESPONSÁVEL PELO FLUXO DE INGESTÃO: ACC&lt;br&gt;HISTORICO: 2018 EM DIANTE&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="66" y="1005" width="410" height="90" as="geometry" />
+          <mxGeometry x="66" y="964" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="dHlC48cDX6uaIEWrEZCU-17" target="k5Esv-RElUaKZkvHN1vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-17" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;et2000_silver_dev.mm.tb_sv_et2k_materials_description (MAKT)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="595" y="1271" width="401" height="30" as="geometry" />
+          <mxGeometry x="595" y="1230" width="401" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="dHlC48cDX6uaIEWrEZCU-21" target="rmoL4z3fJ2_2GLMntFUh-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-21" value="&lt;div style=&quot;font-size: 13px;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;SAP ET2000&lt;br&gt;SINCRONIZAÇÃO: SEMANAL - AWS DMS&lt;br&gt;RESPONSÁVEL PELO FLUXO DE INGESTÃO (DMS): 5ACT&lt;/div&gt;&lt;div style=&quot;font-size: 13px; line-height: 18px; white-space: pre;&quot;&gt;RESPONSÁVEL PELO MAPEAMENTO: IBM&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="66" y="1211" width="410" height="90" as="geometry" />
+          <mxGeometry x="66" y="1170" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dHlC48cDX6uaIEWrEZCU-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="dHlC48cDX6uaIEWrEZCU-24" target="QbCbdrf9mOqZkkxF_8Di-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJBBjq4S8Feu5T6zr0W8-9" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;rvs_silver_dev.auto_service.tb_service_order_cancellation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1130" width="400" height="30" as="geometry" />
+          <mxGeometry x="596" y="1089" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

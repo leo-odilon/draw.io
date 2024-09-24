@@ -4,6 +4,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7BiDQ3n5poa9NNo9-hRY-1" target="7BiDQ3n5poa9NNo9-hRY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-1" value="CPL" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BiDQ3n5poa9NNo9-hRY-2" target="7BiDQ3n5poa9NNo9-hRY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mqtt_protocol;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-4" value="AWS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="113.5" width="440" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-5" value="PARQUET" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="7BiDQ3n5poa9NNo9-hRY-4">
+          <mxGeometry x="145" y="106.5" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7BiDQ3n5poa9NNo9-hRY-4" source="7BiDQ3n5poa9NNo9-hRY-6" target="7BiDQ3n5poa9NNo9-hRY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-6" value="AWS IoT" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/internetofthings-awsiot-thinggeneric-icon-1024x1024-nqtfvghf.png;" vertex="1" parent="7BiDQ3n5poa9NNo9-hRY-4">
+          <mxGeometry x="-49" y="93.5" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-9" value="DATAHUB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="7BiDQ3n5poa9NNo9-hRY-4">
+          <mxGeometry x="310" y="110.5" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.064;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7BiDQ3n5poa9NNo9-hRY-4" source="7BiDQ3n5poa9NNo9-hRY-5" target="7BiDQ3n5poa9NNo9-hRY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BiDQ3n5poa9NNo9-hRY-11" target="7BiDQ3n5poa9NNo9-hRY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BiDQ3n5poa9NNo9-hRY-11" value="POWERBI&lt;br&gt;DASHBOARDS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="980" y="225" width="51" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -229,6 +229,15 @@
         <mxCell id="gt6QZGAnlWATpyFVLMqQ-1" value="&lt;div style=&quot;&quot; data-ccp-timestamp=&quot;1720189577745&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;rvs_silver_dev.auto_service.tb_service_invoice_parts_revenue_for_workshop&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="596" y="1270" width="474" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gt6QZGAnlWATpyFVLMqQ-7" value="DATAHUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="720" y="920" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6QZGAnlWATpyFVLMqQ-8" value="SCORPION" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="920" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6QZGAnlWATpyFVLMqQ-9" value="ORIGEM VW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

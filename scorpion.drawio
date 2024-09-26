@@ -236,7 +236,7 @@
           <mxGeometry x="1250" y="920" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gt6QZGAnlWATpyFVLMqQ-9" value="ORIGEM VW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="210" y="920" width="180" height="30" as="geometry" />
+          <mxGeometry x="181" y="920" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

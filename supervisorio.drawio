@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pDg2Vjj47K2HgM37QHz4" name="Local">
-    <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,6 +171,48 @@
         </mxCell>
         <mxCell id="edcaDgpfXNpcBD0iX5K6-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/40863789/55247735-20dbf900-5227-11e9-9885-f149e97ac587.png;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-18">
           <mxGeometry x="25.92999999999995" y="290" width="96.18" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="840" width="120" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-21">
+          <mxGeometry width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mqtt_protocol;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-21">
+          <mxGeometry x="31" y="20" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.fdtgroup.org/wp-content/uploads/2016/09/opcua-logo-300x300.png;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-21">
+          <mxGeometry x="10" y="78" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edcaDgpfXNpcBD0iX5K6-32" target="edcaDgpfXNpcBD0iX5K6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.niagaramarketplace.com/media/catalog/product/cache/8ec2f9f1aafbe7f04b9376f56dd1d327/m/a/marketplace_icons_13_.png;" vertex="1" parent="1">
+          <mxGeometry x="550" y="872" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="740" y="720" width="150" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-35">
+          <mxGeometry width="150" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-35">
+          <mxGeometry x="30" y="20" width="88.05" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mellowhost.com/images/metabase_2.png;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-35">
+          <mxGeometry x="5.539999999999964" y="160" width="136.97" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/40863789/55247735-20dbf900-5227-11e9-9885-f149e97ac587.png;" vertex="1" parent="edcaDgpfXNpcBD0iX5K6-35">
+          <mxGeometry x="25.92999999999995" y="290" width="96.18" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edcaDgpfXNpcBD0iX5K6-40" target="edcaDgpfXNpcBD0iX5K6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://myvmworld.fr/wp-content/uploads/2017/12/telegraf.png;" vertex="1" parent="1">
+          <mxGeometry x="300" y="900" width="166" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edcaDgpfXNpcBD0iX5K6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edcaDgpfXNpcBD0iX5K6-22" target="edcaDgpfXNpcBD0iX5K6-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

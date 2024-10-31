@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-80" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#DBDBDB;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="460" y="540" width="300" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-74" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#DBDBDB;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="300" y="520" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-73" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#DBDBDB;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="30" y="160" width="260" height="500" as="geometry" />
-        </mxCell>
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Gb7fhnU5ldpY52YVY7vI-1" target="Gb7fhnU5ldpY52YVY7vI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

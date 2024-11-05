@@ -109,6 +109,9 @@
         <mxCell id="pc_rTVkWmHKCijpjmsk4-50" value="Inserir&#xa;SF" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-12">
           <mxGeometry x="620" y="292" width="76" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-59" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-12">
+          <mxGeometry x="15" y="480" width="40" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="pc_rTVkWmHKCijpjmsk4-42" value="SALESFORCE" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="435" width="300" height="250" as="geometry" />
         </mxCell>

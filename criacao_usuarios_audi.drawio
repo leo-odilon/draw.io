@@ -109,14 +109,17 @@
         <mxCell id="pc_rTVkWmHKCijpjmsk4-50" value="Inserir&#xa;SF" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-12">
           <mxGeometry x="620" y="292" width="76" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="pc_rTVkWmHKCijpjmsk4-42" value="SALESFORCE - ORG BRASIL" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="420" width="300" height="140" as="geometry" />
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-42" value="SALESFORCE" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="435" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="pc_rTVkWmHKCijpjmsk4-43" value="OMD" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-42">
           <mxGeometry x="44" y="21.5" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="pc_rTVkWmHKCijpjmsk4-44" value="Audi Smart" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-42">
           <mxGeometry x="184" y="21.5" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-56" value="One CRM" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-42">
+          <mxGeometry x="106.5" y="120" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="pc_rTVkWmHKCijpjmsk4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pc_rTVkWmHKCijpjmsk4-33" target="pc_rTVkWmHKCijpjmsk4-42">
           <mxGeometry relative="1" as="geometry" />

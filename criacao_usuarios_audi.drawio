@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-1" id="W18wG7Gu_XdBRMtK4vuQ">
-    <mxGraphModel>
+    <mxGraphModel dx="2060" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-9" value="SALESFORCE - ORG BRASIL" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="235" width="330" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-6" value="Usuário Aprovador" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-9">
+          <mxGeometry x="222" y="205" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-4" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#000000;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.view_list" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-9">
+          <mxGeometry x="228.60000000000002" y="55" width="64.8" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pc_rTVkWmHKCijpjmsk4-9" source="pc_rTVkWmHKCijpjmsk4-6" target="pc_rTVkWmHKCijpjmsk4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-3" value="Formulario&lt;br&gt;Solicitação" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-9">
+          <mxGeometry x="60" y="60" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pc_rTVkWmHKCijpjmsk4-9" source="pc_rTVkWmHKCijpjmsk4-3" target="pc_rTVkWmHKCijpjmsk4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-1359-Salesforce-01.png;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-9">
+          <mxGeometry y="248" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pc_rTVkWmHKCijpjmsk4-2" target="pc_rTVkWmHKCijpjmsk4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-22" value="Verifica&lt;br&gt;Aprovaçoes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pc_rTVkWmHKCijpjmsk4-11">
+          <mxGeometry x="0.2899" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-12" value="Github Enterprise" style="shape=mxgraph.ibm.box;prType=public;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="570" height="419" as="geometry" />
+        </mxCell>
+        <mxCell id="pc_rTVkWmHKCijpjmsk4-2" value="Monitoramento&#xa;Solicitações" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg;" vertex="1" parent="pc_rTVkWmHKCijpjmsk4-12">
+          <mxGeometry x="50" y="61" width="76" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -103,10 +103,10 @@
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-54" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="970" y="620" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-55" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-55" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="650" y="785" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-56" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-56" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="490" y="785" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-57" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
@@ -127,10 +127,10 @@
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-65" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="420" y="495" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-66" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-66" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="570" y="620" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-67" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-67" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="570" y="650" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-68" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">

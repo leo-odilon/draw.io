@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="RRQcCFWgyD6TMdmRlXpb">
-    <mxGraphModel dx="1556" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,13 +85,13 @@
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-48" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="365" y="140" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-49" value="Óbito" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-49" value="Óbito" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="365" y="170" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-50" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-50" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="625" y="270" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-51" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-51" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="625" y="300" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-52" value="Óbito" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
@@ -115,7 +115,7 @@
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-58" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="105" y="620" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gb7fhnU5ldpY52YVY7vI-62" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Gb7fhnU5ldpY52YVY7vI-62" value="Nascimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="890" y="465" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gb7fhnU5ldpY52YVY7vI-63" value="Casamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#d6b656;" parent="1" vertex="1">

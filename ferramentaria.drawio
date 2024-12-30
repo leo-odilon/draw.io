@@ -74,7 +74,7 @@
           <mxGeometry x="1039" y="1180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-4" value="ORÇAMENTO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#F1ECFF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingTop=10;spacingLeft=20;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1110" width="170" height="180" as="geometry" />
+          <mxGeometry x="740" y="1110" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-17" value="&lt;font&gt;PS&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="1241.5" width="60" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="1069.9950000000001" y="1341" width="69.99" height="41" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-11" value="FATURAMENTO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#F1ECFF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingTop=10;spacingLeft=20;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1120" width="170" height="180" as="geometry" />
+          <mxGeometry x="510" y="1120" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-43" value="&lt;font&gt;SD&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fontStyle=0;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="1181" width="60" height="30" as="geometry" />

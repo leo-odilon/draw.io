@@ -51,7 +51,7 @@
           <mxGeometry x="170" y="610" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-8" value="AQUISIÇÃO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#F1ECFF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingTop=10;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="570" y="570" width="290" height="290" as="geometry" />
+          <mxGeometry x="570" y="610" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-9" value="PLANEJAMENTO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#5D36FF;fillColor=#F1ECFF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingTop=10;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="951" width="290" height="290" as="geometry" />
@@ -84,10 +84,19 @@
           <mxGeometry x="339.0050000000001" y="754.5" width="69.99" height="41" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-20" value="K-SMR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="1288" width="130" height="50" as="geometry" />
+          <mxGeometry x="1340" y="1288" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-21" value="&lt;font&gt;MM&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1340" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CvLS_N9vjDvB-HLGBwH-23" value="&lt;font&gt;PS&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="595" y="768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CvLS_N9vjDvB-HLGBwH-24" value="K-SMR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="705" y="758" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CvLS_N9vjDvB-HLGBwH-25" value="&lt;font&gt;MM&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

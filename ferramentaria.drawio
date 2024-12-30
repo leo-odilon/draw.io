@@ -138,7 +138,7 @@
           <mxGeometry x="670" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CvLS_N9vjDvB-HLGBwH-40" value="&lt;font&gt;Timeshift&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=30;image=img/lib/mscae/SAP_HANA_on_Azure.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="514" y="1180" width="60" height="30" as="geometry" />
+          <mxGeometry x="525" y="1181" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

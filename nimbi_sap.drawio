@@ -4,14 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/5e38f1a8e654dab96f303972/62d5a56850cd0b5e5cdc7236_nimbi%20logo.png;" vertex="1" parent="1">
-          <mxGeometry x="230" y="125.5" width="149.31" height="54" as="geometry" />
+        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/5e38f1a8e654dab96f303972/62d5a56850cd0b5e5cdc7236_nimbi%20logo.png;" parent="1" vertex="1">
+          <mxGeometry x="205.35" y="390" width="149.31" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
-          <mxGeometry x="680" y="210" width="130" height="65" as="geometry" />
+        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" parent="1" vertex="1">
+          <mxGeometry x="770" y="210" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-4" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;KSRM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244.65" y="310" width="120" height="50" as="geometry" />
+        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-4" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;KSRM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="217.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="Dtl0MsyJLQNJqpP4bwWA-4" target="Dtl0MsyJLQNJqpP4bwWA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-2" value="Integração SAP &amp;lt;-&amp;gt; SAP&lt;br&gt;Ordem de compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGwGnga8BK3D56MJG2yZ-1">
+          <mxGeometry x="-0.1241" relative="1" as="geometry">
+            <mxPoint x="31" y="-23" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

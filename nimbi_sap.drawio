@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3" pages="2">
   <diagram name="Página-1" id="o6elsESbIUDIIOBDLZ11">
-    <mxGraphModel dx="1548" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/5e38f1a8e654dab96f303972/62d5a56850cd0b5e5cdc7236_nimbi%20logo.png;" parent="1" vertex="1">
-          <mxGeometry x="205.35" y="390" width="149.31" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" parent="1" vertex="1">
-          <mxGeometry x="770" y="210" width="130" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-4" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;KSRM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="217.5" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dGwGnga8BK3D56MJG2yZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="Dtl0MsyJLQNJqpP4bwWA-4" target="Dtl0MsyJLQNJqpP4bwWA-3">
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dtl0MsyJLQNJqpP4bwWA-2" target="dGwGnga8BK3D56MJG2yZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGwGnga8BK3D56MJG2yZ-2" value="Integração SAP &amp;lt;-&amp;gt; SAP&lt;br&gt;Ordem de compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dGwGnga8BK3D56MJG2yZ-1">
-          <mxGeometry x="-0.1241" relative="1" as="geometry">
-            <mxPoint x="31" y="-23" as="offset" />
-          </mxGeometry>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dtl0MsyJLQNJqpP4bwWA-2" target="dGwGnga8BK3D56MJG2yZ-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dtl0MsyJLQNJqpP4bwWA-2" target="dGwGnga8BK3D56MJG2yZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/5e38f1a8e654dab96f303972/62d5a56850cd0b5e5cdc7236_nimbi%20logo.png;" parent="1" vertex="1">
+          <mxGeometry x="284" y="262" width="199.08" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Dtl0MsyJLQNJqpP4bwWA-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" parent="1" vertex="1">
+          <mxGeometry x="546" y="414.5" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.marketplace;" vertex="1" parent="1">
+          <mxGeometry x="397" y="408" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dGwGnga8BK3D56MJG2yZ-6" target="Dtl0MsyJLQNJqpP4bwWA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
+          <mxGeometry x="103.99999999999997" y="303" width="86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dGwGnga8BK3D56MJG2yZ-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/870/870071.png;" vertex="1" parent="1">
+          <mxGeometry x="346" y="78" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DEssKSm9PO_mnyFxR7M5" name="Página-2">
+    <mxGraphModel dx="1548" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

@@ -282,7 +282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kKzZnwaD8Ia72IKrw5-Z" name="Página-3">
-    <mxGraphModel dx="1562" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,6 +410,18 @@
         </mxCell>
         <mxCell id="eSCB0hy_WZhfAJG-kMdt-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="4" vertex="1">
           <mxGeometry height="40" width="40" x="80" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;strong data-start=&quot;70&quot; data-end=&quot;104&quot;&gt;Integração com SAP via RFC&lt;/strong&gt;&lt;br&gt;A partir do &lt;strong data-start=&quot;119&quot; data-end=&quot;126&quot;&gt;WAF&lt;/strong&gt;, um &lt;strong data-start=&quot;131&quot; data-end=&quot;146&quot;&gt;ALB interno&lt;/strong&gt; recebe a requisição e a encaminha para uma &lt;strong data-start=&quot;190&quot; data-end=&quot;225&quot;&gt;instância EC2 em subnet privada&lt;/strong&gt;, responsável por executar o &lt;strong data-start=&quot;254&quot; data-end=&quot;279&quot; data-is-only-node=&quot;&quot;&gt;SAP NetWeaver RFC SDK&lt;/strong&gt; e estabelecer a comunicação com o SAP via &lt;strong data-start=&quot;322&quot; data-end=&quot;329&quot;&gt;RFC&lt;/strong&gt;." vertex="1">
+          <mxGeometry height="60" width="730" x="140" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="5" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;strong data-start=&quot;81&quot; data-end=&quot;128&quot;&gt;Conectividade com o ambiente on-premise&lt;/strong&gt;&lt;br&gt;A comunicação da &lt;strong data-start=&quot;148&quot; data-end=&quot;166&quot;&gt;subnet privada&lt;/strong&gt; com o ambiente &lt;strong data-start=&quot;182&quot; data-end=&quot;196&quot;&gt;on-premise&lt;/strong&gt; é realizada por meio do &lt;strong data-start=&quot;221&quot; data-end=&quot;262&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;AWS Transit Gateway&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; integrado ao &lt;strong data-start=&quot;276&quot; data-end=&quot;317&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;AWS Direct Connect&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;, garantindo conectividade privada e estável com o &lt;strong data-start=&quot;368&quot; data-end=&quot;409&quot; data-is-only-node=&quot;&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;SAP&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; em execução no datacenter." vertex="1">
+          <mxGeometry height="60" width="760" x="140" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="6" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

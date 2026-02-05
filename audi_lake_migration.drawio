@@ -282,7 +282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kKzZnwaD8Ia72IKrw5-Z" name="Página-3">
-    <mxGraphModel dx="1302" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,9 @@
         <mxCell id="JCyeYYv_QWBwI8hLFtNi-2" parent="JCyeYYv_QWBwI8hLFtNi-9" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;labelPosition=right;" value="ALB" vertex="1">
           <mxGeometry height="72" width="69" x="264.5" y="18" as="geometry" />
         </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-5" parent="JCyeYYv_QWBwI8hLFtNi-9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="5" vertex="1">
+          <mxGeometry height="40" width="40" x="320" y="145" as="geometry" />
+        </mxCell>
         <mxCell id="JCyeYYv_QWBwI8hLFtNi-13" edge="1" parent="JCyeYYv_QWBwI8hLFtNi-8" source="8alMg5qzfgT0g5SYZBX8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8alMg5qzfgT0g5SYZBX8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -373,16 +376,40 @@
           <mxGeometry height="40" width="40" x="290" y="230" as="geometry" />
         </mxCell>
         <mxCell id="eSCB0hy_WZhfAJG-kMdt-4" parent="JCyeYYv_QWBwI8hLFtNi-8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="4" vertex="1">
-          <mxGeometry height="40" width="40" x="570" y="88" as="geometry" />
+          <mxGeometry height="40" width="40" x="570" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="eSCB0hy_WZhfAJG-kMdt-5" parent="JCyeYYv_QWBwI8hLFtNi-8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="5" vertex="1">
-          <mxGeometry height="40" width="40" x="820" y="240" as="geometry" />
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-12" parent="JCyeYYv_QWBwI8hLFtNi-8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="6" vertex="1">
+          <mxGeometry height="40" width="40" x="810" y="240" as="geometry" />
         </mxCell>
         <mxCell id="JCyeYYv_QWBwI8hLFtNi-21" edge="1" parent="1" source="JCyeYYv_QWBwI8hLFtNi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="JCyeYYv_QWBwI8hLFtNi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSCB0hy_WZhfAJG-kMdt-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="1" vertex="1">
           <mxGeometry height="40" width="40" x="70" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-6" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;b&gt;Salesforce (Origem do evento)&lt;/b&gt;&lt;br&gt;A &lt;strong data-start=&quot;178&quot; data-end=&quot;219&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;Salesforce&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; dispara um &lt;strong data-start=&quot;231&quot; data-end=&quot;262&quot;&gt;Outbound Message (SOAP/XML)&lt;/strong&gt; quando ocorre um evento de negócio (ex.: criação de pedido), enviando os dados do evento de forma assíncrona para o sistema de integração." vertex="1">
+          <mxGeometry height="50" width="730" x="140" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="1" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="2" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-9" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;strong data-start=&quot;144&quot; data-end=&quot;201&quot;&gt;Camada de entrada na AWS (Segurança e Roteamento)&lt;/strong&gt;&lt;br&gt;O evento é recebido na &lt;strong data-start=&quot;227&quot; data-end=&quot;268&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;Amazon Web Services&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; por um &lt;strong data-start=&quot;276&quot; data-end=&quot;283&quot;&gt;WAF&lt;/strong&gt;, que aplica regras de segurança e controle de acesso, integrado a um &lt;strong data-start=&quot;353&quot; data-end=&quot;368&quot;&gt;API Gateway&lt;/strong&gt; responsável por expor &lt;strong data-start=&quot;391&quot; data-end=&quot;410&quot;&gt;rotas dedicadas&lt;/strong&gt; para cada tipo de Outbound Message." vertex="1">
+          <mxGeometry height="80" width="740" x="140" y="787" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="3" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-11" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;strong data-start=&quot;580&quot; data-end=&quot;616&quot;&gt;Processamento e Orquestração&lt;/strong&gt;&lt;br&gt;O &lt;strong data-start=&quot;621&quot; data-end=&quot;636&quot;&gt;API Gateway&lt;/strong&gt; encaminha a requisição para uma &lt;strong data-start=&quot;669&quot; data-end=&quot;686&quot;&gt;função Lambda&lt;/strong&gt;, que interpreta o XML (SOAP), transforma o payload em JSON e aciona o &lt;strong data-start=&quot;757&quot; data-end=&quot;771&quot;&gt;Databricks&lt;/strong&gt; para iniciar o job de processamento." vertex="1">
+          <mxGeometry height="80" width="730" x="140" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-13" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;strong data-start=&quot;83&quot; data-end=&quot;130&quot;&gt;Camada de segurança na saída para o SAP&lt;/strong&gt;&lt;br&gt;As requisições geradas pelo &lt;strong data-start=&quot;161&quot; data-end=&quot;202&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;Databricks&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; passam por um &lt;strong data-start=&quot;217&quot; data-end=&quot;224&quot;&gt;WAF&lt;/strong&gt;, responsável por aplicar controles de segurança e proteção antes do envio para o &lt;strong data-start=&quot;306&quot; data-end=&quot;347&quot;&gt;&lt;span class=&quot;hover:entity-accent entity-underline inline cursor-pointer align-baseline&quot;&gt;&lt;span class=&quot;whitespace-normal&quot;&gt;SAP&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;." vertex="1">
+          <mxGeometry height="60" width="740" x="140" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="eSCB0hy_WZhfAJG-kMdt-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="4" vertex="1">
+          <mxGeometry height="40" width="40" x="80" y="960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

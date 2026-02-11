@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sA3gzsF9HJe6QVTW4Pq-" name="TO-BE">
-    <mxGraphModel dx="744" dy="92" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k6FCI_eyf_geaqgncVgB-1" parent="_cle_PLOd415dzHUNd_L-1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" value="ALB" vertex="1">
-          <mxGeometry height="72" width="69" x="230" y="402" as="geometry" />
+          <mxGeometry height="72" width="69" x="230" y="403" as="geometry" />
         </mxCell>
         <mxCell id="k6FCI_eyf_geaqgncVgB-3" edge="1" parent="_cle_PLOd415dzHUNd_L-1" source="k6FCI_eyf_geaqgncVgB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k6FCI_eyf_geaqgncVgB-1">
           <mxGeometry relative="1" as="geometry" />

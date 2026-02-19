@@ -633,7 +633,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WcZigYJzWW1YCK8jTJeQ" name="Página-5">
-    <mxGraphModel dx="2153" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,13 +713,13 @@
           <mxGeometry height="30" width="60" x="650" y="80" as="geometry" />
         </mxCell>
         <mxCell id="RlRspvR6MBiC2xgVhAKU-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Abril" vertex="1">
-          <mxGeometry height="30" width="60" x="870" y="80" as="geometry" />
+          <mxGeometry height="30" width="60" x="890" y="80" as="geometry" />
         </mxCell>
         <mxCell id="RlRspvR6MBiC2xgVhAKU-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Maio" vertex="1">
-          <mxGeometry height="30" width="60" x="1110" y="80" as="geometry" />
+          <mxGeometry height="30" width="60" x="1130" y="80" as="geometry" />
         </mxCell>
         <mxCell id="RlRspvR6MBiC2xgVhAKU-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Junho" vertex="1">
-          <mxGeometry height="30" width="60" x="1350" y="80" as="geometry" />
+          <mxGeometry height="30" width="60" x="1370" y="80" as="geometry" />
         </mxCell>
         <mxCell id="RlRspvR6MBiC2xgVhAKU-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Julho" vertex="1">
           <mxGeometry height="30" width="60" x="1590" y="80" as="geometry" />
@@ -832,40 +832,56 @@
         <mxCell id="RlRspvR6MBiC2xgVhAKU-54" parent="RlRspvR6MBiC2xgVhAKU-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="20. tf_SFDC_to_DL_Account" vertex="1">
           <mxGeometry height="20" width="180" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-59" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" value="ONDA 2&lt;br&gt;Jobs DL→SF" vertex="1">
-          <mxGeometry height="230" width="180" x="830" y="330" as="geometry">
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-76" edge="1" parent="1" source="RlRspvR6MBiC2xgVhAKU-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RlRspvR6MBiC2xgVhAKU-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-59" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" value="HOMOLOGAÇÃO" vertex="1">
+          <mxGeometry height="110" width="180" x="830" y="420" as="geometry">
             <mxRectangle height="30" width="60" x="110" y="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-60" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;spacing=2;" value="11. tf_DL_to_SFDC_StagingInvoice_c" vertex="1">
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-60" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;spacing=2;" value="Testes integrados" vertex="1">
           <mxGeometry height="20" width="180" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-61" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="12. tf_DL_to_SFDC_StagingProduct_c" vertex="1">
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-61" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="UAT (usuários)" vertex="1">
           <mxGeometry height="20" width="180" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-62" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="13. tf_DL_to_SFDC_StageGoldXRT_c" vertex="1">
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-62" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Setup Produção" vertex="1">
           <mxGeometry height="20" width="180" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-63" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="14. tf_DL_to_SFDC_StagingCustomer_c" vertex="1">
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-63" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="Aprovações" vertex="1">
           <mxGeometry height="20" width="180" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-64" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="15. tf_DL_to_SFDC_StagingUsedCar_c" vertex="1">
-          <mxGeometry height="20" width="180" y="110" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-71" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" value="GO-LIVE + HYPERCARE" vertex="1">
+          <mxGeometry height="90" width="180" x="1070" y="470" as="geometry">
+            <mxRectangle height="30" width="60" x="110" y="130" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-65" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="16. tf_SFDC_to_DL_RecordType" vertex="1">
-          <mxGeometry height="20" width="180" y="130" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-72" parent="RlRspvR6MBiC2xgVhAKU-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;spacing=2;" value="Cutover" vertex="1">
+          <mxGeometry height="20" width="180" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-66" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="17. tf_SFDC_to_DL_User" vertex="1">
-          <mxGeometry height="20" width="180" y="150" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-73" parent="RlRspvR6MBiC2xgVhAKU-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Deploy Produção" vertex="1">
+          <mxGeometry height="20" width="180" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-67" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="18. tf_SFDC_to_DL_Lead" vertex="1">
-          <mxGeometry height="20" width="180" y="170" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-74" parent="RlRspvR6MBiC2xgVhAKU-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Validação inicial" vertex="1">
+          <mxGeometry height="20" width="180" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-68" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="19. tf_SFDC_to_DL_Contact" vertex="1">
-          <mxGeometry height="20" width="180" y="190" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-77" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" value="Discovery&lt;br&gt;Informatica On-Premise" vertex="1">
+          <mxGeometry height="110" width="180" x="590" y="630" as="geometry">
+            <mxRectangle height="30" width="60" x="110" y="130" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RlRspvR6MBiC2xgVhAKU-69" parent="RlRspvR6MBiC2xgVhAKU-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="20. tf_SFDC_to_DL_Account" vertex="1">
-          <mxGeometry height="20" width="180" y="210" as="geometry" />
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-78" parent="RlRspvR6MBiC2xgVhAKU-77" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Levantamento técnico" vertex="1">
+          <mxGeometry height="20" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-79" parent="RlRspvR6MBiC2xgVhAKU-77" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Mapeamento de fontes" vertex="1">
+          <mxGeometry height="20" width="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-80" parent="RlRspvR6MBiC2xgVhAKU-77" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=9;" value="Estratégia de dados" vertex="1">
+          <mxGeometry height="20" width="180" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RlRspvR6MBiC2xgVhAKU-81" parent="RlRspvR6MBiC2xgVhAKU-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;spacingLeft=4;" value="Planejamento das ondas" vertex="1">
+          <mxGeometry height="20" width="180" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

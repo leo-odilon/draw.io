@@ -1079,12 +1079,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Flux-AWS" id="2Wh1GITeg_QmV5m-6lDs">
-    <mxGraphModel dx="2054" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="AZ-Eyr02g3B4xVO4WXa0-0" />
         <mxCell id="AZ-Eyr02g3B4xVO4WXa0-1" parent="AZ-Eyr02g3B4xVO4WXa0-0" />
         <mxCell id="AZ-Eyr02g3B4xVO4WXa0-2" parent="AZ-Eyr02g3B4xVO4WXa0-1" style="swimlane;whiteSpace=wrap;html=1;container=0;" value="AWS - Datahub" vertex="1">
-          <mxGeometry height="580" width="1310" x="370" y="810" as="geometry" />
+          <mxGeometry height="580" width="1197" x="370" y="810" as="geometry" />
         </mxCell>
         <mxCell id="WohrLrrbbYB52TuLhQDn-7" edge="1" parent="AZ-Eyr02g3B4xVO4WXa0-2" source="AZ-Eyr02g3B4xVO4WXa0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WohrLrrbbYB52TuLhQDn-5">
           <mxGeometry relative="1" as="geometry">

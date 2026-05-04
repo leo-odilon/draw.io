@@ -1386,17 +1386,35 @@
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TB NFE REBOQUE" vertex="1">
           <mxGeometry height="60" width="120" x="416" y="1180" as="geometry" />
         </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-53" edge="1" parent="1" source="dLmJbzbC_yAmXr9KgWhP-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dLmJbzbC_yAmXr9KgWhP-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TB NFE VOL" vertex="1">
           <mxGeometry height="60" width="120" x="416" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TB NFE VOL&lt;br&gt;LACRES" vertex="1">
           <mxGeometry height="60" width="120" x="416" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="dLmJbzbC_yAmXr9KgWhP-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CSV VIN" vertex="1">
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VIN TXT" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="dLmJbzbC_yAmXr9KgWhP-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAN" vertex="1">
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAN TXT" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_VOLUME" vertex="1">
+          <mxGeometry height="60" width="204" x="1340" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-56" edge="1" parent="1" source="dLmJbzbC_yAmXr9KgWhP-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dLmJbzbC_yAmXr9KgWhP-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_VOLUME_DSTG" vertex="1">
+          <mxGeometry height="60" width="220" x="642.42" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-57" edge="1" parent="1" source="dLmJbzbC_yAmXr9KgWhP-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dLmJbzbC_yAmXr9KgWhP-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_VOLUME_TSTG" vertex="1">
+          <mxGeometry height="60" width="260.42" x="969.58" y="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

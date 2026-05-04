@@ -1401,6 +1401,14 @@
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAN TXT" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="1850" as="geometry" />
         </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-58" edge="1" parent="1" source="dLmJbzbC_yAmXr9KgWhP-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dLmJbzbC_yAmXr9KgWhP-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1442" y="1250" />
+              <mxPoint x="1100" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_VOLUME" vertex="1">
           <mxGeometry height="60" width="204" x="1340" y="1270" as="geometry" />
         </mxCell>

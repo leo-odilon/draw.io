@@ -1724,13 +1724,13 @@
           <mxGeometry height="60" width="120" x="3930" y="760" as="geometry" />
         </mxCell>
         <mxCell id="hxUziJyvkE5jiFIz_EKR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_TAXPAYER" vertex="1">
-          <mxGeometry height="60" width="204" x="4252.42" y="880" as="geometry" />
+          <mxGeometry height="60" width="204" x="4250" y="880" as="geometry" />
         </mxCell>
         <mxCell id="hxUziJyvkE5jiFIz_EKR-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_REFERENCE" vertex="1">
-          <mxGeometry height="60" width="204" x="4252.42" y="790" as="geometry" />
+          <mxGeometry height="60" width="204" x="4250" y="790" as="geometry" />
         </mxCell>
         <mxCell id="hxUziJyvkE5jiFIz_EKR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NFE_INVOICE_PAYMENT" vertex="1">
-          <mxGeometry height="60" width="204" x="4252.42" y="970" as="geometry" />
+          <mxGeometry height="60" width="204" x="4250" y="970" as="geometry" />
         </mxCell>
         <mxCell id="hxUziJyvkE5jiFIz_EKR-21" edge="1" parent="1" source="hxUziJyvkE5jiFIz_EKR-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hxUziJyvkE5jiFIz_EKR-19">
           <mxGeometry relative="1" as="geometry" />

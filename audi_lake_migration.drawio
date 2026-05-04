@@ -1679,7 +1679,7 @@
           <mxGeometry height="60" width="260" x="2310" y="449" as="geometry" />
         </mxCell>
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-130" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" value="" vertex="1">
-          <mxGeometry height="70" width="140" x="2645" y="444" as="geometry" />
+          <mxGeometry height="70" width="140" x="2660" y="444" as="geometry" />
         </mxCell>
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-136" edge="1" parent="1" source="dLmJbzbC_yAmXr9KgWhP-135" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dLmJbzbC_yAmXr9KgWhP-128">
           <mxGeometry relative="1" as="geometry" />

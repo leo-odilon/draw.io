@@ -1392,6 +1392,12 @@
         <mxCell id="dLmJbzbC_yAmXr9KgWhP-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TB NFE VOL&lt;br&gt;LACRES" vertex="1">
           <mxGeometry height="60" width="120" x="416" y="1360" as="geometry" />
         </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CSV VIN" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="dLmJbzbC_yAmXr9KgWhP-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAN" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="1850" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1210,7 +1210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HbT-tZxOB1SwM9BJRBxn" name="Mapa">
-    <mxGraphModel dx="3542" dy="4127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1531" dy="3022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2024,6 +2024,9 @@
         <mxCell id="6k6h6C95iqLTLA83OEa--23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rgvt_register_vendor_type_ref" vertex="1">
           <mxGeometry height="60" width="204" x="4241" y="2350" as="geometry" />
         </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--46" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="brsg_brand_segment_ref" vertex="1">
           <mxGeometry height="60" width="204" x="4240" y="2675" as="geometry" />
         </mxCell>
@@ -2065,6 +2068,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4990" y="1800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--45" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rgbt_register_body_type_ref" vertex="1">
+          <mxGeometry height="60" width="204" x="4252" y="1660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

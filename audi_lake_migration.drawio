@@ -1210,7 +1210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HbT-tZxOB1SwM9BJRBxn" name="Mapa">
-    <mxGraphModel dx="2575" dy="3595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3343" dy="4277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1953,16 +1953,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VIN TXT" vertex="1">
-          <mxGeometry height="60" width="120" x="3470" y="1836" as="geometry" />
+          <mxGeometry height="60" width="120" x="3470" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--62" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6k6h6C95iqLTLA83OEa--61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAN TXT" vertex="1">
           <mxGeometry height="60" width="120" x="3470" y="2036" as="geometry" />
         </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--65" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VIN_RAW" vertex="1">
-          <mxGeometry height="60" width="120" x="3670" y="1836" as="geometry" />
+          <mxGeometry height="60" width="120" x="3670" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AREA MAIS" vertex="1">
-          <mxGeometry height="60" width="120" x="3470" y="2166" as="geometry" />
+          <mxGeometry height="60" width="120" x="3460" y="1890" as="geometry" />
         </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--7" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--1">
           <mxGeometry relative="1" as="geometry" />
@@ -2099,6 +2105,30 @@
         </mxCell>
         <mxCell id="6k6h6C95iqLTLA83OEa--48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="rgvn_vin_registration" vertex="1">
           <mxGeometry height="60" width="204" x="4252" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--56" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="6k6h6C95iqLTLA83OEa--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="tipo_carroceria" vertex="1">
+          <mxGeometry height="60" width="204" x="3790" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--58" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="6k6h6C95iqLTLA83OEa--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="municipio" vertex="1">
+          <mxGeometry height="60" width="204" x="3853" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--60" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="combustivel" vertex="1">
+          <mxGeometry height="60" width="204" x="3850" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--64" edge="1" parent="1" source="6k6h6C95iqLTLA83OEa--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="6k6h6C95iqLTLA83OEa--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k6h6C95iqLTLA83OEa--61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RENAVAM_RAW" vertex="1">
+          <mxGeometry height="60" width="120" x="3700" y="2036" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

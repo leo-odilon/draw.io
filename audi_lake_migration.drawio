@@ -2167,7 +2167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VuQtf1pauLEHuNd36tY9" name="Página-8">
-    <mxGraphModel dx="1654" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2426,8 +2426,8 @@
         <mxCell id="QrnLLtAu-4Om8-0H81l9-23" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="RFC - VARVEN OK" vertex="1">
           <mxGeometry x="1041.25" y="1421" as="geometry" />
         </mxCell>
-        <mxCell id="QrnLLtAu-4Om8-0H81l9-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="POSSIBILIDADE MELHORIA" vertex="1">
-          <mxGeometry height="30" width="443.75" x="466.25" y="1190" as="geometry" />
+        <mxCell id="QrnLLtAu-4Om8-0H81l9-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="POSSIBILIDADE MELHORIA (PROJETO)" vertex="1">
+          <mxGeometry height="30" width="673.75" x="410" y="1190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

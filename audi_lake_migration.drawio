@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kKzZnwaD8Ia72IKrw5-Z" name="SAP - SFDC">
-    <mxGraphModel dx="1838" dy="1216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,6 +425,9 @@
         </mxCell>
         <mxCell id="eSCB0hy_WZhfAJG-kMdt-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="6" vertex="1">
           <mxGeometry height="40" width="40" x="940" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="BsnXqAt2Ad2tSiAORxKb-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Detalhamento SF &amp;lt;-&amp;gt; SAP&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="610" x="485" y="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
